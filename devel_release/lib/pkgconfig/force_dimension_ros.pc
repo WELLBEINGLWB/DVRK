@@ -1,0 +1,1 @@
+/home/jiameng/catkin_dvrk/devel_release/.private/force_dimension_ros/lib/pkgconfig/force_dimension_ros.pc

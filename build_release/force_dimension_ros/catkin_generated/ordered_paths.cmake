@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/jiameng/catkin_dvrk/devel_release/.private/cisst_ros_bridge/lib;/opt/ros/kinetic/lib")

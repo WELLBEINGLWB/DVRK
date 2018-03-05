@@ -1,0 +1,8 @@
+Symlinking /home/jiameng/catkin_dvrk/devel_release/./setup.zsh
+Symlinking /home/jiameng/catkin_dvrk/devel_release/./setup.bash
+Symlinking /home/jiameng/catkin_dvrk/devel_release/./setup.sh
+Symlinking /home/jiameng/catkin_dvrk/devel_release/./_setup_util.py
+Symlinking /home/jiameng/catkin_dvrk/devel_release/./env.sh
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/pkgconfig/catkin_tools_prebuild.pc

@@ -1,0 +1,57 @@
+[  1%] [34m[1mAutomatic moc for target cisstVectorQt[0m
+[  5%] [34m[1mAutomatic moc for target cisstParameterTypesQt[0m
+[  5%] [34m[1mGenerating /home/jiameng/catkin_dvrk/build_release/cisst/include/cisstRevision.h from /home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstRevision.h.in[0m
+[  6%] Built target cisstJSONExternal
+[  6%] [34m[1mGenerating /home/jiameng/catkin_dvrk/build_release/cisst/include/cisstBuildType.h from /home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstBuildType.h.in[0m
+[  8%] Built target cisstReflexxesTypeIIExternal
+[  9%] [34m[1mAutomatic moc for target cisstMultiTaskQt[0m
+-- Found Git revision: 1.0.9
+-- Build type is: Release
+Build suffix is: .
+[ 16%] Built target cisstDataGenerator
+[ 16%] Built target cisstMultiTaskQt_automoc
+[ 16%] Built target cisstParameterTypesQt_automoc
+[ 16%] Built target cisstRevision
+[ 16%] Built target cisstVectorQt_automoc
+[ 16%] Built target cisstBuildType
+[ 24%] Built target cisstCommon
+[ 24%] Built target _cisstCommonPython
+[ 30%] Built target cisstOSAbstraction
+[ 31%] Built target cisstCommonXML
+[ 32%] Built target cisstCommonQt
+[ 33%] Built target _cisstOSAbstractionPython
+[ 40%] Built target cisstVector
+[ 41%] Built target cisstVectorFLTK
+[ 42%] Built target _cisstVectorPython
+[ 48%] Built target cisstNumerical
+[ 50%] Built target cisstVectorQt
+[ 51%] Built target _cisstNumericalPython
+[ 57%] Built target cisstRobot
+[ 58%] Built target _cisstRobotPython
+[ 80%] Built target cisstMultiTask
+[ 80%] [32mBuilding CXX object cisstMultiTask/codePython/CMakeFiles/_cisstMultiTaskPython.dir/cisstMultiTaskPYTHON_wrap.cxx.o[0m
+[ 91%] Built target cisstParameterTypes
+[ 92%] Built target _cisstParameterTypesPython
+[ 98%] Built target cisstMultiTaskQt
+In file included from [01m[K/usr/lib/python2.7/dist-packages/numpy/core/include/numpy/ndarraytypes.h:1777:0[m[K,
+                 from [01m[K/usr/lib/python2.7/dist-packages/numpy/core/include/numpy/ndarrayobject.h:18[m[K,
+                 from [01m[K/usr/lib/python2.7/dist-packages/numpy/core/include/numpy/arrayobject.h:4[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctPythonUtilities.h:38[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctPython.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsPython.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/cisst/cisstMultiTask/codePython/cisstMultiTaskPYTHON_wrap.cxx:5581[m[K:
+[01m[K/usr/lib/python2.7/dist-packages/numpy/core/include/numpy/npy_1_7_deprecated_api.h:15:2:[m[K [01;35m[Kwarning: [m[K#warning "Using deprecated NumPy API, disable it by " "#defining NPY_NO_DEPRECATED_API NPY_1_7_API_VERSION" [-Wcpp]
+ #warning "Using deprecated NumPy API, disable it by " \
+[01;32m[K  ^[m[K
+[ 99%] Built target cisstParameterTypesQt
+[01m[K/home/jiameng/catkin_dvrk/build_release/cisst/cisstMultiTask/codePython/cisstMultiTaskPYTHON_wrap.cxx:[m[K In function ‘[01m[KPyObject* _wrap_mtsComponent_Running(PyObject*, PyObject*)[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/build_release/cisst/cisstMultiTask/codePython/cisstMultiTaskPYTHON_wrap.cxx:15556:107:[m[K [01;35m[Kwarning: [m[K‘[01m[Kbool mtsComponent::Running() const[m[K’ is deprecated [-Wdeprecated-declarations]
+    arg1 = reinterpret_cast< mtsComponent * >(argp1); result = (bool)((mtsComponent const *)arg1)->Running();
+[01;32m[K                                                                                                           ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsPython.h:51:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/cisst/cisstMultiTask/codePython/cisstMultiTaskPYTHON_wrap.cxx:5581[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsComponent.h:428:34:[m[K [01;36m[Knote: [m[Kdeclared here
+     inline bool CISST_DEPRECATED Running(void) const {
+[01;32m[K                                  ^[m[K
+[ 99%] [32m[1mLinking CXX shared module ../../lib/_cisstMultiTaskPython.so[0m
+[100%] Built target _cisstMultiTaskPython

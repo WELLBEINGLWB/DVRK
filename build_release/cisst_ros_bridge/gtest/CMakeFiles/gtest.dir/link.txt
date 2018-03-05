@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libgtest.so -o libgtest.so CMakeFiles/gtest.dir/src/gtest-all.cc.o  -L/home/jiameng/catkin_dvrk/build_release/cisst_ros_bridge/gtest/src -lpthread -Wl,-rpath,/home/jiameng/catkin_dvrk/build_release/cisst_ros_bridge/gtest/src 

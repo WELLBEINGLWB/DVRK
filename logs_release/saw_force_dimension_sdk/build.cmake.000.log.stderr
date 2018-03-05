@@ -1,0 +1,1 @@
+Information: code in /home/jiameng/catkin_dvrk/src/cisst-saw/sawForceDimensionSDK/components will not be compiled, it requires the Force Dimension SDK.  Please set force_dimension_sdk_DIR using CMake, e.g. ccmake /home/jiameng/catkin_dvrk/build_release/saw_force_dimension_sdk or cmake-gui /home/jiameng/catkin_dvrk/build_release/saw_force_dimension_sdk

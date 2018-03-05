@@ -1,0 +1,14 @@
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawTextToSpeech/components/include/sawTextToSpeech/mtsTextToSpeech.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawTextToSpeech/components/code/mtsTextToSpeech.cpp:20[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawTextToSpeech/components/code/mtsTextToSpeech.cpp:46:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsTextToSpeechClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsTextToSpeech);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawTextToSpeech/components/code/mtsTextToSpeech.cpp:46:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsTextToSpeech);
+[01;32m[K ^[m[K

@@ -1,0 +1,430 @@
+[  3%] [34m[1mcisstDataGenerator for socketMessages[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/socketMessages.h and /home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/socketMessages_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/socketMessages.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/socketMessages.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/socketMessages_cdg.cpp"
+[  6%] [34m[1mcisstDataGenerator for mtsIntuitiveResearchKitArmTypes[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitArmTypes.h and /home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/mtsIntuitiveResearchKitArmTypes_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitArmTypes.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitArmTypes.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/mtsIntuitiveResearchKitArmTypes_cdg.cpp"
+[35m[1mScanning dependencies of target sawIntuitiveResearchKit[0m
+[  9%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsStateMachine.cpp.o[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitArm.cpp.o[0m
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQt_automoc[0m
+[ 15%] [34m[1mAutomatic moc for target sawIntuitiveResearchKitQt[0m
+[34m[1mGenerating moc_mtsIntuitiveResearchKitArmQtWidget.cpp[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitMTM.cpp.o[0m
+[34m[1mGenerating moc_mtsIntuitiveResearchKitConsoleQtWidget.cpp[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/cisst/include/cisstMultiTask/mtsExecutionResult.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsCallableVoidBase.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsCallableVoidMethod.h:31[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/include/sawIntuitiveResearchKit/mtsStateMachine.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsStateMachine.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+[ 21%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitPSM.cpp.o[0m
+[34m[1mGenerating moc_mtsIntuitiveResearchKitSUJQtWidget.cpp[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitECM.cpp.o[0m
+[34m[1mGenerating moc_mtsSocketBaseQtWidget.cpp[0m
+[34m[1mGenerating moc_mtsTeleOperationECMQtWidget.cpp[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitSUJ.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsTeleOperationPSM.cpp.o[0m
+[34m[1mGenerating moc_mtsTeleOperationPSMQtWidget.cpp[0m
+[ 31%] Built target sawIntuitiveResearchKitQt_automoc
+[ 34%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsTeleOperationECM.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitConsole.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsQueue.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsMailBox.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceProvided.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitECM.cpp:25[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitECM.cpp:30:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsIntuitiveResearchKitECMClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitECM, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitECM.cpp:30:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitECM, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K ^[m[K
+[ 40%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsIntuitiveResearchKitUDPStreamer.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnDeSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVector.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicMatrix.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstNumerical/nmrLSMinNorm.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitMTM.cpp:25[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitMTM.cpp:31:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsIntuitiveResearchKitMTMClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitMTM, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitMTM.cpp:31:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitMTM, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K ^[m[K
+[ 43%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsSocketBasePSM.cpp.o[0m
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitConsole.cpp:1858:88:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kbutton[m[K’ [-Wunused-parameter]
+ void mtsIntuitiveResearchKitConsole::ECMManipClutchEventHandler(const prmEventButton & button)
+[01;32m[K                                                                                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstOSAbstraction/osaSocket.h:60[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitUDPStreamer.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitUDPStreamer.cpp:20[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitUDPStreamer.cpp:26:32:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsIntuitiveResearchKitUDPStreamerClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED(mtsIntuitiveResearchKitUDPStreamer, mtsTaskPeriodic)
+[01;32m[K                                ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitUDPStreamer.cpp:26:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED(mtsIntuitiveResearchKitUDPStreamer, mtsTaskPeriodic)
+[01;32m[K ^[m[K
+[ 46%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsSocketClientPSM.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsQueue.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsMailBox.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceProvided.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitPSM.cpp:25[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitPSM.cpp:30:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsIntuitiveResearchKitPSMClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitPSM, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitPSM.cpp:30:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitPSM, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K ^[m[K
+[ 50%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsSocketServerPSM.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/robManipulatorPSMSnake.cpp.o[0m
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketClientPSM.cpp:[m[K In member function ‘[01m[Kvoid mtsSocketClientPSM::ReceivePSMStateData()[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketClientPSM.cpp:153:23:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [-Wsign-compare]
+         if (bytesRead != State.Data.Header.Size){
+[01;32m[K                       ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTask.h:35[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskContinuous.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskPeriodic.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/include/sawIntuitiveResearchKit/mtsTeleOperationECM.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsTeleOperationECM.cpp:24[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsTeleOperationECM.cpp:30:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsTeleOperationECMClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsTeleOperationECM, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsTeleOperationECM.cpp:30:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsTeleOperationECM, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K ^[m[K
+[ 56%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/code/mtsPSMCompensation.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTask.h:35[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskContinuous.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskPeriodic.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/include/sawIntuitiveResearchKit/mtsTeleOperationPSM.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsTeleOperationPSM.cpp:24[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsTeleOperationPSM.cpp:30:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsTeleOperationPSMClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsTeleOperationPSM, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsTeleOperationPSM.cpp:30:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsTeleOperationPSM, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K ^[m[K
+[ 59%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/mtsIntuitiveResearchKitArmTypes_cdg.cpp.o[0m
+[ 62%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKit.dir/socketMessages_cdg.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitArmTypes.h:21[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/mtsIntuitiveResearchKitArmTypes_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitArmTypes.h:19[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/mtsIntuitiveResearchKitArmTypes_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/mtsIntuitiveResearchKitArmTypes_cdg.cpp:15:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsIntuitiveResearchKitArmTypesProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsIntuitiveResearchKitArmTypesProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/mtsIntuitiveResearchKitArmTypes_cdg.cpp:15:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsIntuitiveResearchKitArmTypesProxy);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTask.h:35[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskContinuous.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskPeriodic.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/include/sawIntuitiveResearchKit/mtsSocketBasePSM.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/include/sawIntuitiveResearchKit/mtsSocketClientPSM.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketClientPSM.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketClientPSM.cpp:[m[K At global scope:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketClientPSM.cpp:22:32:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsSocketClientPSMClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED(mtsSocketClientPSM, mtsTaskPeriodic);
+[01;32m[K                                ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketClientPSM.cpp:22:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED(mtsSocketClientPSM, mtsTaskPeriodic);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTask.h:35[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskContinuous.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskPeriodic.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/include/sawIntuitiveResearchKit/mtsSocketBasePSM.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/include/sawIntuitiveResearchKit/mtsSocketServerPSM.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketServerPSM.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketServerPSM.cpp:22:32:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsSocketServerPSMClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED(mtsSocketServerPSM, mtsTaskPeriodic);
+[01;32m[K                                ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsSocketServerPSM.cpp:22:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED(mtsSocketServerPSM, mtsTaskPeriodic);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTask.h:35[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskContinuous.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskPeriodic.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/include/sawIntuitiveResearchKit/mtsPSMCompensation.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsPSMCompensation.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsPSMCompensation.cpp:28:32:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsPSMCompensationClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED(mtsPSMCompensation, mtsTaskPeriodic);
+[01;32m[K                                ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsPSMCompensation.cpp:28:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED(mtsPSMCompensation, mtsTaskPeriodic);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTask.h:35[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskContinuous.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskPeriodic.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitSUJ.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitSUJ.cpp:24[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitSUJ.cpp:44:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsIntuitiveResearchKitSUJClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitSUJ, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg)
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitSUJ.cpp:44:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitSUJ, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg)
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeConstMatrixBase.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeMatrixBase.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeConstMatrixRef.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeMatrix.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstNumerical/nmrIsOrthonormal.h:32[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitArm.cpp:25[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitArm.cpp:31:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsIntuitiveResearchKitArmClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitArm, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitArm.cpp:31:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitArm, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnPath.h:32[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitConsole.cpp:23[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitConsole.cpp:49:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsIntuitiveResearchKitConsoleClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsIntuitiveResearchKitConsole);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/mtsIntuitiveResearchKitConsole.cpp:49:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsIntuitiveResearchKitConsole);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/socketMessages.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/socketMessages_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/include/sawIntuitiveResearchKit/socketMessages.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/socketMessages_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/socketMessages_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KsocketMessagesProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(socketMessagesProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/socketMessages_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(socketMessagesProxy);
+[01;32m[K ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/socketMessages_cdg.cpp:233:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KsocketHeaderProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(socketHeaderProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/socketMessages_cdg.cpp:233:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(socketHeaderProxy);
+[01;32m[K ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/socketMessages_cdg.cpp:591:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KsocketStatePSMProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(socketStatePSMProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/socketMessages_cdg.cpp:591:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(socketStatePSMProxy);
+[01;32m[K ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/socketMessages_cdg.cpp:871:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KsocketCommandPSMProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(socketCommandPSMProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_intuitive_research_kit/socketMessages_cdg.cpp:871:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(socketCommandPSMProxy);
+[01;32m[K ^[m[K
+[ 65%] [32m[1mLinking CXX shared library /home/jiameng/catkin_dvrk/devel_release/.private/saw_intuitive_research_kit/lib/libsawIntuitiveResearchKit.so[0m
+[ 65%] Built target sawIntuitiveResearchKit
+[ 68%] [34m[1mGenerating qrc_logo.cpp[0m
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQt[0m
+[ 71%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitConsoleQt.cpp.o[0m
+[ 75%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitConsoleQtWidget.cpp.o[0m
+[ 78%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsTeleOperationPSMQtWidget.cpp.o[0m
+[ 81%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitArmQtWidget.cpp.o[0m
+[ 84%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsTeleOperationECMQtWidget.cpp.o[0m
+[ 87%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsIntuitiveResearchKitSUJQtWidget.cpp.o[0m
+[ 90%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/mtsSocketBaseQtWidget.cpp.o[0m
+[ 93%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/qrc_logo.cpp.o[0m
+[ 96%] [32mBuilding CXX object code/Qt/CMakeFiles/sawIntuitiveResearchKitQt.dir/sawIntuitiveResearchKitQt_automoc.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/include/sawIntuitiveResearchKit/mtsIntuitiveResearchKitConsoleQt.h:23[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsIntuitiveResearchKitConsoleQt.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsIntuitiveResearchKitConsoleQt.cpp:38:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsIntuitiveResearchKitConsoleQtClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsIntuitiveResearchKitConsoleQt);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsIntuitiveResearchKitConsoleQt.cpp:38:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsIntuitiveResearchKitConsoleQt);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterface.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceRequired.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsIntuitiveResearchKitConsoleQtWidget.cpp:25[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsIntuitiveResearchKitConsoleQtWidget.cpp:46:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsIntuitiveResearchKitConsoleQtWidgetClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsIntuitiveResearchKitConsoleQtWidget);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsIntuitiveResearchKitConsoleQtWidget.cpp:46:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsIntuitiveResearchKitConsoleQtWidget);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterface.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceRequired.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsSocketBaseQtWidget.cpp:28[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsSocketBaseQtWidget.cpp:32:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsSocketBaseQtWidgetClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsSocketBaseQtWidget, mtsComponent, std::string);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsSocketBaseQtWidget.cpp:32:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsSocketBaseQtWidget, mtsComponent, std::string);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterface.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceRequired.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsIntuitiveResearchKitSUJQtWidget.cpp:30[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsIntuitiveResearchKitSUJQtWidget.cpp:36:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsIntuitiveResearchKitSUJQtWidgetClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitSUJQtWidget, mtsComponent, std::string);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsIntuitiveResearchKitSUJQtWidget.cpp:36:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitSUJQtWidget, mtsComponent, std::string);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterface.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceRequired.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsIntuitiveResearchKitArmQtWidget.cpp:34[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsIntuitiveResearchKitArmQtWidget.cpp:40:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsIntuitiveResearchKitArmQtWidgetClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitArmQtWidget, mtsComponent, std::string);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsIntuitiveResearchKitArmQtWidget.cpp:40:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsIntuitiveResearchKitArmQtWidget, mtsComponent, std::string);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterface.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceRequired.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsTeleOperationECMQtWidget.cpp:38[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsTeleOperationECMQtWidget.cpp:44:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsTeleOperationECMQtWidgetClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsTeleOperationECMQtWidget, mtsComponent, std::string);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsTeleOperationECMQtWidget.cpp:44:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsTeleOperationECMQtWidget, mtsComponent, std::string);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterface.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceRequired.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsTeleOperationPSMQtWidget.cpp:38[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsTeleOperationPSMQtWidget.cpp:44:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsTeleOperationPSMQtWidgetClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsTeleOperationPSMQtWidget, mtsComponent, std::string);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/components/code/Qt/mtsTeleOperationPSMQtWidget.cpp:44:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsTeleOperationPSMQtWidget, mtsComponent, std::string);
+[01;32m[K ^[m[K
+[100%] [32m[1mLinking CXX shared library /home/jiameng/catkin_dvrk/devel_release/.private/saw_intuitive_research_kit/lib/libsawIntuitiveResearchKitQt.so[0m
+[100%] Built target sawIntuitiveResearchKitQt

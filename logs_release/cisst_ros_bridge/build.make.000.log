@@ -1,0 +1,31 @@
+[35m[1mScanning dependencies of target cisst_ros_bridge[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/cisst_ros_bridge.dir/src/mtsROSBridge.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterface.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceRequired.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst-ros/cisst_ros_bridge/src/mtsROSBridge.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst-ros/cisst_ros_bridge/src/mtsROSBridge.cpp:24:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsROSBridgeClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsROSBridge);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst-ros/cisst_ros_bridge/src/mtsROSBridge.cpp:24:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsROSBridge);
+[01;32m[K ^[m[K
+[ 33%] [32mBuilding CXX object CMakeFiles/cisst_ros_bridge.dir/src/mtsCISSTToROS.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/cisst_ros_bridge.dir/src/mtsROSToCISST.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/cisst/include/cisstParameterTypes/prmPositionCartesianGet.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst-ros/cisst_ros_bridge/include/cisst_ros_bridge/mtsROSToCISST.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst-ros/cisst_ros_bridge/src/mtsROSToCISST.cpp:20[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+[ 66%] [32m[1mLinking CXX shared library /home/jiameng/catkin_dvrk/devel_release/.private/cisst_ros_bridge/lib/libcisst_ros_bridge.so[0m
+[ 66%] Built target cisst_ros_bridge
+[35m[1mScanning dependencies of target example_bridge[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/example_bridge.dir/example/main.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/cisst_ros_bridge/lib/cisst_ros_bridge/example_bridge[0m
+[100%] Built target example_bridge

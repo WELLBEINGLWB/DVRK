@@ -1,0 +1,6 @@
+[ 33%] Built target dvrk_utilities
+[ 46%] Built target dvrk_ecm_ros
+[ 60%] Built target dvrk_psm_ros
+[ 73%] Built target dvrk_mtm_ros
+[ 86%] Built target dvrk_console_json
+[100%] Built target dvrk_full_ros

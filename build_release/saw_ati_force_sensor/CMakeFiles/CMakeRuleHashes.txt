@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+fee916989ab35cb3d65e74648d4783fa code/Qt/CMakeFiles/sawATIForceSensorQt_automoc

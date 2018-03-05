@@ -1,0 +1,3 @@
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/sawKeyboard/cmake/sawKeyboardConfigVersion.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/sawKeyboard/cmake/sawKeyboardConfig.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/libsawKeyboard.so

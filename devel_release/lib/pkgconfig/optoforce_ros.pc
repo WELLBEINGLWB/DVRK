@@ -1,0 +1,1 @@
+/home/jiameng/catkin_dvrk/devel_release/.private/optoforce_ros/lib/pkgconfig/optoforce_ros.pc

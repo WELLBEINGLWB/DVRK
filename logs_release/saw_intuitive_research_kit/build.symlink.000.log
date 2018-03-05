@@ -1,0 +1,4 @@
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/sawIntuitiveResearchKit/cmake/sawIntuitiveResearchKitConfigVersion.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/sawIntuitiveResearchKit/cmake/sawIntuitiveResearchKitConfig.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/libsawIntuitiveResearchKitQt.so
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/libsawIntuitiveResearchKit.so

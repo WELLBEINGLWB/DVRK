@@ -1,0 +1,4 @@
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/dvrk_gazebo/cmake/dvrk_gazeboConfig-version.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/dvrk_gazebo/cmake/dvrk_gazeboConfig.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/libdv_adnan_controller.so
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/pkgconfig/dvrk_gazebo.pc

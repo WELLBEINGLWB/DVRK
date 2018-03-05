@@ -1,0 +1,8 @@
+prefix=/home/jiameng/catkin_dvrk/install_release
+
+Name: force_dimension_ros
+Description: Description of force_dimension_ros
+Version: 1.0.0
+Cflags: -I/home/jiameng/catkin_dvrk/install_release/include
+Libs: -L/home/jiameng/catkin_dvrk/install_release/lib 
+Requires: cisst_ros_bridge geometry_msgs roscpp std_msgs

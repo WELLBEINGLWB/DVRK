@@ -1,0 +1,4 @@
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/optoforce_ros/cmake/optoforce_rosConfig-version.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/optoforce_ros/cmake/optoforce_rosConfig.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/optoforce_ros/optoforce_json
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/pkgconfig/optoforce_ros.pc

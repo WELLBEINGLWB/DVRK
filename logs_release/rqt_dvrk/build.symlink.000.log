@@ -1,0 +1,5 @@
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/rqt_dvrk/cmake/rqt_dvrkConfig-version.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/rqt_dvrk/cmake/rqt_dvrkConfig.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/bin/rqt_dvrk
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/pkgconfig/rqt_dvrk.pc
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/python2.7/dist-packages/rqt_dvrk/__init__.py

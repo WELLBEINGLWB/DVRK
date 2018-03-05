@@ -1,0 +1,8 @@
+prefix=/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_config
+
+Name: dvrk_config
+Description: Description of dvrk_config
+Version: 1.5.0
+Cflags: 
+Libs: -L/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_config/lib 
+Requires: 

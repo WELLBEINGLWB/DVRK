@@ -1,0 +1,116 @@
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFController.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsSimpleVFController.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsSimpleVFController.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnDeSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVector.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVectorTypes.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstNumerical/nmrConstraintOptimizer.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFController.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsSimpleVFController.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsSimpleVFController.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsSimpleVFController.cpp:21:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsSimpleVFControllerClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsSimpleVFController)
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsSimpleVFController.cpp:21:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsSimpleVFController)
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTask.h:35[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskContinuous.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskPeriodic.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsRobotTask.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsRobotTask.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsRobotTask.cpp:22:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsRobotTaskClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsRobotTask);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsRobotTask.cpp:22:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsRobotTask);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnPath.h:32[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsVFSenderTask.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsVFSenderTask.cpp:21[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsVFSenderTask.cpp:26:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFSenderTaskClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFSenderTask);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsVFSenderTask.cpp:26:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFSenderTask);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnDeSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeVectorBase.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeConstVectorRef.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeVectorRef.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeVector.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeVectorTypes.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctTypes.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsVFControllerTask.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsVFControllerTask.cpp:21[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsVFControllerTask.cpp:23:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFControllerTaskClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFControllerTask)
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/mtsVFControllerTask.cpp:23:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFControllerTask)
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/prmSimpleRobotKinematicsState.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/prmSimpleRobotKinematicsState.cpp:1[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/prmSimpleRobotKinematicsState.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/prmSimpleRobotKinematicsState.cpp:1[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/prmSimpleRobotKinematicsState.cpp:3:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KprmSimpleRobotKinematicsStateClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(prmSimpleRobotKinematicsState)
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/SimpleCommunication/prmSimpleRobotKinematicsState.cpp:3:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(prmSimpleRobotKinematicsState)
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTask.h:35[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskContinuous.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskPeriodic.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/BasicSetup/mtsRobotTask.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/BasicSetup/mtsRobotTask.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/BasicSetup/mtsRobotTask.cpp:22:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsRobotTaskClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsRobotTask);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/examples/BasicSetup/mtsRobotTask.cpp:22:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsRobotTask);
+[01;32m[K ^[m[K

@@ -1,0 +1,11 @@
+[35m[1mScanning dependencies of target sawUniversalRobotExamples[0m
+[ 33%] [34m[1mCopying ur_robot.py to /home/jiameng/catkin_dvrk/devel_release/.private/saw_universal_robot_examples/bin/.[0m
+[ 33%] Built target sawUniversalRobotExamples
+[35m[1mScanning dependencies of target sawUniversalRobotConsole[0m
+[ 66%] [32mBuilding CXX object ConsoleTest/CMakeFiles/sawUniversalRobotConsole.dir/main.cpp.o[0m
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawUniversalRobot/examples/ConsoleTest/main.cpp:[m[K In member function ‘[01m[Kvirtual void UniversalRobotClient::Run()[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawUniversalRobot/examples/ConsoleTest/main.cpp:211:51:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [-Wsign-compare]
+                     if ((version < 0) || (version >= sizeof(versionString)/sizeof(versionString[0])))
+[01;32m[K                                                   ^[m[K
+[100%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/saw_universal_robot_examples/bin/sawUniversalRobotConsole[0m
+[100%] Built target sawUniversalRobotConsole

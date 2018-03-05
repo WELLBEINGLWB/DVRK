@@ -1,0 +1,8 @@
+prefix=/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot
+
+Name: dvrk_robot
+Description: Description of dvrk_robot
+Version: 1.5.0
+Cflags: -I/home/jiameng/catkin_dvrk/src/dvrk-ros/dvrk_robot/include -I/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/include
+Libs: -L/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/lib -ldvrk_utilities
+Requires: cisst_msgs cisst_ros_bridge geometry_msgs roscpp std_msgs

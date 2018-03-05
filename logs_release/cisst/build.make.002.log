@@ -1,0 +1,36 @@
+[  1%] [34m[1mAutomatic moc for target cisstParameterTypesQt[0m
+[  1%] [34m[1mGenerating /home/jiameng/catkin_dvrk/build_release/cisst/include/cisstBuildType.h from /home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstBuildType.h.in[0m
+[  3%] [34m[1mAutomatic moc for target cisstVectorQt[0m
+[  2%] [34m[1mGenerating /home/jiameng/catkin_dvrk/build_release/cisst/include/cisstRevision.h from /home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstRevision.h.in[0m
+[  6%] Built target cisstJSONExternal
+[  7%] [34m[1mAutomatic moc for target cisstMultiTaskQt[0m
+-- Build type is: Release
+Build suffix is: .
+-- Found Git revision: 1.0.9
+[ 14%] Built target cisstDataGenerator
+[ 14%] Built target cisstParameterTypesQt_automoc
+[ 14%] Built target cisstBuildType
+[ 14%] Built target cisstRevision
+[ 16%] Built target cisstReflexxesTypeIIExternal
+[ 16%] Built target cisstVectorQt_automoc
+[ 16%] Built target cisstMultiTaskQt_automoc
+[ 24%] Built target cisstCommon
+[ 24%] Built target _cisstCommonPython
+[ 25%] Built target cisstCommonXML
+[ 31%] Built target cisstOSAbstraction
+[ 32%] Built target cisstCommonQt
+[ 39%] Built target cisstVector
+[ 40%] Built target _cisstOSAbstractionPython
+[ 41%] Built target cisstVectorFLTK
+[ 42%] Built target _cisstVectorPython
+[ 44%] Built target cisstVectorQt
+[ 50%] Built target cisstNumerical
+[ 51%] Built target _cisstNumericalPython
+[ 57%] Built target cisstRobot
+[ 58%] Built target _cisstRobotPython
+[ 80%] Built target cisstMultiTask
+[ 81%] Built target _cisstMultiTaskPython
+[ 92%] Built target cisstParameterTypes
+[ 93%] Built target _cisstParameterTypesPython
+[ 99%] Built target cisstMultiTaskQt
+[100%] Built target cisstParameterTypesQt

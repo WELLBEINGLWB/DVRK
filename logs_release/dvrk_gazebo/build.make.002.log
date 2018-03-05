@@ -1,0 +1,26 @@
+[35m[1mScanning dependencies of target dv_adnan_controller[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/dv_adnan_controller.dir/src/dvrk_gazebo_controller.cpp.o[0m
+In file included from [01m[K/usr/include/c++/5/random:35:0[m[K,
+                 from [01m[K/usr/include/ignition/math2/ignition/math/Rand.hh:20[m[K,
+                 from [01m[K/usr/include/ignition/math2/ignition/math.hh:18[m[K,
+                 from [01m[K/usr/include/sdformat-4.0/sdf/Param.hh:34[m[K,
+                 from [01m[K/usr/include/sdformat-4.0/sdf/Element.hh:24[m[K,
+                 from [01m[K/usr/include/sdformat-4.0/sdf/sdf.hh:5[m[K,
+                 from [01m[K/usr/include/gazebo-7/gazebo/common/Battery.hh:25[m[K,
+                 from [01m[K/usr/include/gazebo-7/gazebo/common/common.hh:8[m[K,
+                 from [01m[K/usr/include/gazebo-7/gazebo/gazebo_core.hh:19[m[K,
+                 from [01m[K/usr/include/gazebo-7/gazebo/gazebo.hh:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/dvrk-gazebo/dvrk_gazebo/include/dvrk_gazebo_controller.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/dvrk-gazebo/dvrk_gazebo/src/dvrk_gazebo_controller.cpp:15[m[K:
+[01m[K/usr/include/c++/5/bits/c++0x_warning.h:32:2:[m[K [01;31m[Kerror: [m[K#error This file requires compiler and library support for the ISO C++ 2011 standard. This support must be enabled with the -std=c++11 or -std=gnu++11 compiler options.
+ #error This file requires compiler and library support \
+[01;32m[K  ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/dvrk-gazebo/dvrk_gazebo/src/dvrk_gazebo_controller.cpp:15:0[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/dvrk-gazebo/dvrk_gazebo/include/dvrk_gazebo_controller.h:21:30:[m[K [01;31m[Kfatal error: [m[Kphysics/physics.hh: No such file or directory
+compilation terminated.
+CMakeFiles/dv_adnan_controller.dir/build.make:62: recipe for target 'CMakeFiles/dv_adnan_controller.dir/src/dvrk_gazebo_controller.cpp.o' failed
+make[2]: *** [CMakeFiles/dv_adnan_controller.dir/src/dvrk_gazebo_controller.cpp.o] Error 1
+CMakeFiles/Makefile2:2019: recipe for target 'CMakeFiles/dv_adnan_controller.dir/all' failed
+make[1]: *** [CMakeFiles/dv_adnan_controller.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

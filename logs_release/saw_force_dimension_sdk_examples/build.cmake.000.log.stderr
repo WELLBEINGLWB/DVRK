@@ -1,0 +1,18 @@
+[33m[1mCMake Warning[0m at /home/jiameng/catkin_dvrk/src/cisst-saw/sawForceDimensionSDK/examples/CMakeLists.txt:39 (find_package):
+  By not providing "FindsawForceDimensionSDK.cmake" in CMAKE_MODULE_PATH this
+  project has asked CMake to find a package configuration file provided by
+  "sawForceDimensionSDK", but CMake did not find one.
+
+  Could not find a package configuration file provided by
+  "sawForceDimensionSDK" with any of the following names:
+
+    sawForceDimensionSDKConfig.cmake
+    sawforcedimensionsdk-config.cmake
+
+  Add the installation prefix of "sawForceDimensionSDK" to CMAKE_PREFIX_PATH
+  or set "sawForceDimensionSDK_DIR" to a directory containing one of the
+  above files.  If "sawForceDimensionSDK" provides a separate development
+  package or SDK, be sure it has been installed.
+
+
+Information: code in /home/jiameng/catkin_dvrk/src/cisst-saw/sawForceDimensionSDK/examples will not be compiled, it requires sawForceDimensionSDK and cisstQt

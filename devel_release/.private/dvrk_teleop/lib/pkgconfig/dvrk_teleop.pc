@@ -1,0 +1,8 @@
+prefix=/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_teleop
+
+Name: dvrk_teleop
+Description: Description of dvrk_teleop
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_teleop/lib 
+Requires: 

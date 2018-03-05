@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+ce3e6fcffbdfddb0173ae26e644b0fbb moc_mainQtUDPServer.cxx

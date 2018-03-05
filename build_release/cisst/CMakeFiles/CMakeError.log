@@ -1,0 +1,227 @@
+Determining if the Q_WS_WIN exist failed with the following output:
+Change Dir: /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_17383/fast"
+/usr/bin/make -f CMakeFiles/cmTC_17383.dir/build.make CMakeFiles/cmTC_17383.dir/build
+make[1]: Entering directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_17383.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -I/usr/include/qt4  -fPIC -Wextra -Wall    -o CMakeFiles/cmTC_17383.dir/CheckSymbolExists.cxx.o -c /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_WIN’ was not declared in this scope
+   return ((int*)(&Q_WS_WIN))[argc];
+                   ^
+CMakeFiles/cmTC_17383.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_17383.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_17383.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_17383/fast' failed
+make: *** [cmTC_17383/fast] Error 2
+
+File /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_WIN
+  return ((int*)(&Q_WS_WIN))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_QWS exist failed with the following output:
+Change Dir: /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_91715/fast"
+/usr/bin/make -f CMakeFiles/cmTC_91715.dir/build.make CMakeFiles/cmTC_91715.dir/build
+make[1]: Entering directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_91715.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -I/usr/include/qt4  -fPIC -Wextra -Wall    -o CMakeFiles/cmTC_91715.dir/CheckSymbolExists.cxx.o -c /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_QWS’ was not declared in this scope
+   return ((int*)(&Q_WS_QWS))[argc];
+                   ^
+CMakeFiles/cmTC_91715.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_91715.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_91715.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_91715/fast' failed
+make: *** [cmTC_91715/fast] Error 2
+
+File /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_QWS
+  return ((int*)(&Q_WS_QWS))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the Q_WS_MAC exist failed with the following output:
+Change Dir: /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_b2309/fast"
+/usr/bin/make -f CMakeFiles/cmTC_b2309.dir/build.make CMakeFiles/cmTC_b2309.dir/build
+make[1]: Entering directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_b2309.dir/CheckSymbolExists.cxx.o
+/usr/bin/c++    -I/usr/include/qt4  -fPIC -Wextra -Wall    -o CMakeFiles/cmTC_b2309.dir/CheckSymbolExists.cxx.o -c /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx: In function ‘int main(int, char**)’:
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:8:19: error: ‘Q_WS_MAC’ was not declared in this scope
+   return ((int*)(&Q_WS_MAC))[argc];
+                   ^
+CMakeFiles/cmTC_b2309.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_b2309.dir/CheckSymbolExists.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_b2309.dir/CheckSymbolExists.cxx.o] Error 1
+make[1]: Leaving directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_b2309/fast' failed
+make: *** [cmTC_b2309/fast] Error 2
+
+File /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.cxx:
+/* */
+#include <QtCore/qglobal.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef Q_WS_MAC
+  return ((int*)(&Q_WS_MAC))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if size_t is a native type passed with the following output:
+Change Dir: /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_83df5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_83df5.dir/build.make CMakeFiles/cmTC_83df5.dir/build
+make[1]: Entering directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_83df5.dir/test_size_t.cpp.o
+/usr/bin/c++     -fPIC -Wextra -Wall    -o CMakeFiles/cmTC_83df5.dir/test_size_t.cpp.o -c /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/test_size_t.cpp
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/test_size_t.cpp:2:36: warning: unused parameter ‘p’ [-Wunused-parameter]
+           char method(unsigned int p) {
+                                    ^
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/test_size_t.cpp:5:46: warning: unused parameter ‘p’ [-Wunused-parameter]
+           char method(unsigned long long int p) {
+                                              ^
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/test_size_t.cpp:8:23: error: ‘char method’ redeclared as different kind of symbol
+           char method(size_t p) {
+                       ^
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/test_size_t.cpp:5:16: note: previous declaration ‘char method(long long unsigned int)’
+           char method(unsigned long long int p) {
+                ^
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/test_size_t.cpp:8:23: error: ‘size_t’ was not declared in this scope
+           char method(size_t p) {
+                       ^
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/test_size_t.cpp:8:23: note: suggested alternatives:
+In file included from /usr/include/c++/5/bits/stl_algobase.h:59:0,
+                 from /usr/include/c++/5/vector:60,
+                 from /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/test_size_t.cpp:1:
+/usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h:196:26: note:   ‘std::size_t’
+   typedef __SIZE_TYPE__  size_t;
+                          ^
+/usr/include/x86_64-linux-gnu/c++/5/bits/c++config.h:196:26: note:   ‘std::size_t’
+CMakeFiles/cmTC_83df5.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_83df5.dir/test_size_t.cpp.o' failed
+make[1]: *** [CMakeFiles/cmTC_83df5.dir/test_size_t.cpp.o] Error 1
+make[1]: Leaving directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_83df5/fast' failed
+make: *** [cmTC_83df5/fast] Error 2
+
+
+Performing C++ SOURCE FILE Test CISST_OSTREAM_CAN_CAST_TO_INT failed with the following output:
+Change Dir: /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_ae915/fast"
+/usr/bin/make -f CMakeFiles/cmTC_ae915.dir/build.make CMakeFiles/cmTC_ae915.dir/build
+make[1]: Entering directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_ae915.dir/src.cxx.o
+/usr/bin/c++     -fPIC -Wextra -Wall -DCISST_OSTREAM_CAN_CAST_TO_INT   -o CMakeFiles/cmTC_ae915.dir/src.cxx.o -c /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/src.cxx
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/src.cxx: In function ‘int main(int, char**)’:
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/src.cxx:3:10: error: operands to ?: have different types ‘int’ and ‘std::basic_ostream<char>’
+     true ? 0 : std::cerr << "true";
+          ^
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/src.cxx:4:11: error: operands to ?: have different types ‘int’ and ‘std::basic_ostream<char>’
+     false ? 0 : std::cerr << "false";
+           ^
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/src.cxx: At global scope:
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/src.cxx:2:14: warning: unused parameter ‘argc’ [-Wunused-parameter]
+ int main(int argc, char ** argv) {
+              ^
+/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/src.cxx:2:28: warning: unused parameter ‘argv’ [-Wunused-parameter]
+ int main(int argc, char ** argv) {
+                            ^
+CMakeFiles/cmTC_ae915.dir/build.make:65: recipe for target 'CMakeFiles/cmTC_ae915.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTC_ae915.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_ae915/fast' failed
+make: *** [cmTC_ae915/fast] Error 2
+
+Source file was:
+#include <iostream>
+int main(int argc, char ** argv) {
+    true ? 0 : std::cerr << "true";
+    false ? 0 : std::cerr << "false";
+    return 0;
+}
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_268f7/fast"
+/usr/bin/make -f CMakeFiles/cmTC_268f7.dir/build.make CMakeFiles/cmTC_268f7.dir/build
+make[1]: Entering directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_268f7.dir/CheckSymbolExists.c.o
+/usr/bin/cc     -o CMakeFiles/cmTC_268f7.dir/CheckSymbolExists.c.o   -c /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_268f7
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_268f7.dir/link.txt --verbose=1
+/usr/bin/cc       CMakeFiles/cmTC_268f7.dir/CheckSymbolExists.c.o  -o cmTC_268f7 -rdynamic 
+CMakeFiles/cmTC_268f7.dir/CheckSymbolExists.c.o: In function `main':
+CheckSymbolExists.c:(.text+0x16): undefined reference to `pthread_create'
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_268f7.dir/build.make:97: recipe for target 'cmTC_268f7' failed
+make[1]: *** [cmTC_268f7] Error 1
+make[1]: Leaving directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_268f7/fast' failed
+make: *** [cmTC_268f7/fast] Error 2
+
+File /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c15bf/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c15bf.dir/build.make CMakeFiles/cmTC_c15bf.dir/build
+make[1]: Entering directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_c15bf.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_c15bf.dir/CheckFunctionExists.c.o   -c /usr/share/cmake-3.5/Modules/CheckFunctionExists.c
+Linking C executable cmTC_c15bf
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c15bf.dir/link.txt --verbose=1
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_c15bf.dir/CheckFunctionExists.c.o  -o cmTC_c15bf -rdynamic -lpthreads 
+/usr/bin/ld: cannot find -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_c15bf.dir/build.make:97: recipe for target 'cmTC_c15bf' failed
+make[1]: *** [cmTC_c15bf] Error 1
+make[1]: Leaving directory '/home/jiameng/catkin_dvrk/build_release/cisst/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_c15bf/fast' failed
+make: *** [cmTC_c15bf/fast] Error 2
+
+

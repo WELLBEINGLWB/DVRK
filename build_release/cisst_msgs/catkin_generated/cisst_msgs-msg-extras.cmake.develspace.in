@@ -1,0 +1,2 @@
+set(cisst_msgs_MESSAGE_FILES "/home/jiameng/catkin_dvrk/src/cisst-saw/cisst-ros/cisst_msgs/msg/vctDoubleVec.msg;/home/jiameng/catkin_dvrk/src/cisst-saw/cisst-ros/cisst_msgs/msg/prmCartesianImpedanceGains.msg;/home/jiameng/catkin_dvrk/src/cisst-saw/cisst-ros/cisst_msgs/msg/mtsIntervalStatistics.msg;/home/jiameng/catkin_dvrk/src/cisst-saw/cisst-ros/cisst_msgs/msg/BoolStamped.msg;/home/jiameng/catkin_dvrk/src/cisst-saw/cisst-ros/cisst_msgs/msg/StringStamped.msg")
+set(cisst_msgs_SERVICE_FILES "")

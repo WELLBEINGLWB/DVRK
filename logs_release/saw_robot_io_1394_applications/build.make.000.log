@@ -1,0 +1,55 @@
+[35m[1mScanning dependencies of target sawRobotIO1394QtConsole[0m
+[  9%] [32mBuilding CXX object Qt/CMakeFiles/sawRobotIO1394QtConsole.dir/mainQt.cpp.o[0m
+[ 18%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394QtConsole[0m
+[35m[1mScanning dependencies of target sawRobotIO1394CurrentCalibration[0m
+[ 27%] [32mBuilding CXX object current-calibration/CMakeFiles/sawRobotIO1394CurrentCalibration.dir/main.cpp.o[0m
+[ 27%] Built target sawRobotIO1394QtConsole
+[35m[1mScanning dependencies of target sawRobotIO1394QtDataPlot_automoc[0m
+[ 36%] [34m[1mAutomatic moc for target sawRobotIO1394QtDataPlot[0m
+[34m[1mGenerating moc_plotObject.cpp[0m
+[35m[1mScanning dependencies of target sawRobotIO1394DataCollection[0m
+[ 45%] [32mBuilding CXX object data-collection/CMakeFiles/sawRobotIO1394DataCollection.dir/main.cpp.o[0m
+[ 45%] Built target sawRobotIO1394QtDataPlot_automoc
+[35m[1mScanning dependencies of target sawRobotIO1394QtDataPlot[0m
+[ 54%] [32mBuilding CXX object data-plot/CMakeFiles/sawRobotIO1394QtDataPlot.dir/main.cpp.o[0m
+[ 63%] [32mBuilding CXX object data-plot/CMakeFiles/sawRobotIO1394QtDataPlot.dir/plotObject.cpp.o[0m
+[ 72%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394DataCollection[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/applications/current-calibration/main.cpp:28[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+[ 72%] Built target sawRobotIO1394DataCollection
+[ 81%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394CurrentCalibration[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/applications/data-plot/main.cpp:27[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaPort1394.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/applications/data-plot/plotObject.h:27[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/applications/data-plot/plotObject.cpp:20[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+[ 90%] [32mBuilding CXX object data-plot/CMakeFiles/sawRobotIO1394QtDataPlot.dir/sawRobotIO1394QtDataPlot_automoc.cpp.o[0m
+[ 90%] Built target sawRobotIO1394CurrentCalibration
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaPort1394.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_robot_io_1394_applications/data-plot/../../../src/cisst-saw/sawRobotIO1394/applications/data-plot/plotObject.h:27[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_robot_io_1394_applications/data-plot/moc_plotObject.cpp:9[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_robot_io_1394_applications/data-plot/sawRobotIO1394QtDataPlot_automoc.cpp:2[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+[100%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394QtDataPlot[0m
+[100%] Built target sawRobotIO1394QtDataPlot

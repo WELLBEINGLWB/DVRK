@@ -1,0 +1,93 @@
+[35m[1mScanning dependencies of target sawControllers[0m
+[  6%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/osaGravityCompensation.cpp.o[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/osaPDGC.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/osaPIDAntiWindup.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/osaCartesianImpedanceController.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/cisst/include/cisstParameterTypes/prmCartesianImpedanceGains.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/include/sawControllers/osaCartesianImpedanceController.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/osaCartesianImpedanceController.cpp:20[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+[ 33%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/mtsController.cpp.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/mtsGravityCompensation.cpp.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/mtsPDGC.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/mtsPID.cpp.o[0m
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/mtsPID.cpp:[m[K In member function ‘[01m[Kvirtual void mtsPID::Configure(const string&)[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/mtsPID.cpp:287:23:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < mNumberOfActiveJoints; i++) {
+[01;32m[K                       ^[m[K
+[ 60%] [32mBuilding CXX object CMakeFiles/sawControllers.dir/code/mtsTeleOperation.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnXMLPath.h:32[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/mtsPID.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/mtsPID.cpp:[m[K At global scope:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/mtsPID.cpp:26:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsPIDClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsPID, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/mtsPID.cpp:26:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsPID, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K ^[m[K
+[35m[1mScanning dependencies of target sawControllersQt_automoc[0m
+[ 66%] [34m[1mAutomatic moc for target sawControllersQt[0m
+[34m[1mGenerating moc_mtsPIDQtWidget.cpp[0m
+[34m[1mGenerating moc_mtsTeleOperationQtWidget.cpp[0m
+[ 66%] Built target sawControllersQt_automoc
+[35m[1mScanning dependencies of target sawControllersQt[0m
+[ 73%] [32mBuilding CXX object code/Qt/CMakeFiles/sawControllersQt.dir/mtsPIDQtWidget.cpp.o[0m
+[ 80%] [32mBuilding CXX object code/Qt/CMakeFiles/sawControllersQt.dir/mtsTeleOperationQtWidget.cpp.o[0m
+[ 86%] [32mBuilding CXX object code/Qt/CMakeFiles/sawControllersQt.dir/sawControllersQt_automoc.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterface.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceRequired.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/Qt/mtsPIDQtWidget.cpp:34[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/Qt/mtsPIDQtWidget.cpp:41:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsPIDQtWidgetClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsPIDQtWidget, mtsComponent, mtsComponentConstructorNameAndUInt)
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/Qt/mtsPIDQtWidget.cpp:41:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsPIDQtWidget, mtsComponent, mtsComponentConstructorNameAndUInt)
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTask.h:35[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskContinuous.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskPeriodic.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/include/sawControllers/mtsTeleOperation.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/mtsTeleOperation.cpp:24[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/mtsTeleOperation.cpp:29:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsTeleOperationClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsTeleOperation, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/mtsTeleOperation.cpp:29:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsTeleOperation, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg);
+[01;32m[K ^[m[K
+[ 93%] [32m[1mLinking CXX shared library lib/libsawControllers.so[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterface.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceRequired.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/Qt/mtsTeleOperationQtWidget.cpp:35[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/Qt/mtsTeleOperationQtWidget.cpp:43:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsTeleOperationQtWidgetClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsTeleOperationQtWidget, mtsComponent, std::string);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawControllers/components/code/Qt/mtsTeleOperationQtWidget.cpp:43:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsTeleOperationQtWidget, mtsComponent, std::string);
+[01;32m[K ^[m[K
+[100%] [32m[1mLinking CXX shared library ../../lib/libsawControllersQt.so[0m
+[100%] Built target sawControllers
+[100%] Built target sawControllersQt

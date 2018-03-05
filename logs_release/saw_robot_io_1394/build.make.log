@@ -1,0 +1,13 @@
+[ 11%] Built target Amp1394
+[ 16%] Built target block1394
+[ 22%] Built target info1394
+[ 27%] Built target time1394
+[ 33%] Built target qladisp
+[ 38%] Built target qlatest
+[ 44%] Built target fwPortTest
+[ 50%] Built target qlacloserelays
+[ 52%] [34m[1mAutomatic moc for target sawRobotIO1394Qt[0m
+[ 61%] Built target pgm1394
+[ 61%] Built target sawRobotIO1394Qt_automoc
+[ 88%] Built target sawRobotIO1394
+[100%] Built target sawRobotIO1394Qt

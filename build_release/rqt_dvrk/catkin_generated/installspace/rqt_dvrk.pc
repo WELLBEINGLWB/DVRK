@@ -1,0 +1,8 @@
+prefix=/home/jiameng/catkin_dvrk/install_release
+
+Name: rqt_dvrk
+Description: Description of rqt_dvrk
+Version: 0.0.1
+Cflags: 
+Libs: -L/home/jiameng/catkin_dvrk/install_release/lib 
+Requires: 

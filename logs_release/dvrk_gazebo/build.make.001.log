@@ -1,0 +1,10 @@
+[ 50%] [32mBuilding CXX object CMakeFiles/dv_adnan_controller.dir/src/dvrk_gazebo_controller.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/dvrk-gazebo/dvrk_gazebo/src/dvrk_gazebo_controller.cpp:15:0[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/dvrk-gazebo/dvrk_gazebo/include/dvrk_gazebo_controller.h:20:21:[m[K [01;31m[Kfatal error: [m[Kgazebo.hh: No such file or directory
+compilation terminated.
+CMakeFiles/dv_adnan_controller.dir/build.make:62: recipe for target 'CMakeFiles/dv_adnan_controller.dir/src/dvrk_gazebo_controller.cpp.o' failed
+make[2]: *** [CMakeFiles/dv_adnan_controller.dir/src/dvrk_gazebo_controller.cpp.o] Error 1
+CMakeFiles/Makefile2:2019: recipe for target 'CMakeFiles/dv_adnan_controller.dir/all' failed
+make[1]: *** [CMakeFiles/dv_adnan_controller.dir/all] Error 2
+Makefile:138: recipe for target 'all' failed
+make: *** [all] Error 2

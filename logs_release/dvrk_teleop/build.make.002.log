@@ -1,0 +1,4 @@
+[ 12%] [34m[1mAutomatic moc for target dvrk_teleop_gui[0m
+[ 50%] Built target dvrk_teleop
+[ 50%] Built target dvrk_teleop_gui_automoc
+[100%] Built target dvrk_teleop_gui

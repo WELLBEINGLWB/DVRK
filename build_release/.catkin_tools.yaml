@@ -1,0 +1,6 @@
+devel_space: /home/jiameng/catkin_dvrk/devel_release
+install: false
+install_space: /home/jiameng/catkin_dvrk/install_release
+profile: release
+source_space: /home/jiameng/catkin_dvrk/src
+workspace: /home/jiameng/catkin_dvrk

@@ -1,0 +1,87 @@
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstCommon' but neither
+  'cisstCommon_INCLUDE_DIRS' nor 'cisstCommon_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstCommonQt' but neither
+  'cisstCommonQt_INCLUDE_DIRS' nor 'cisstCommonQt_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstVector' but neither
+  'cisstVector_INCLUDE_DIRS' nor 'cisstVector_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstVectorQt' but neither
+  'cisstVectorQt_INCLUDE_DIRS' nor 'cisstVectorQt_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstOSAbstraction' but neither
+  'cisstOSAbstraction_INCLUDE_DIRS' nor 'cisstOSAbstraction_LIBRARIES' is
+  defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstMultiTask' but neither
+  'cisstMultiTask_INCLUDE_DIRS' nor 'cisstMultiTask_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstMultiTaskQt' but neither
+  'cisstMultiTaskQt_INCLUDE_DIRS' nor 'cisstMultiTaskQt_LIBRARIES' is
+  defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstParameterTypes' but neither
+  'cisstParameterTypes_INCLUDE_DIRS' nor 'cisstParameterTypes_LIBRARIES' is
+  defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstQt' but neither 'cisstQt_INCLUDE_DIRS'
+  nor 'cisstQt_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+CMake Warning (dev) in CMakeLists.txt:
+  Policy CMP0043 is not set: Ignore COMPILE_DEFINITIONS_<Config> properties.
+  Run "cmake --help-policy CMP0043" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Policy CMP0043 is not set: Ignore COMPILE_DEFINITIONS_<Config> properties.
+  Run "cmake --help-policy CMP0043" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

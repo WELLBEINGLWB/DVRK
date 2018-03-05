@@ -1,0 +1,33 @@
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/applications/current-calibration/main.cpp:28[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/applications/data-plot/main.cpp:27[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaPort1394.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/applications/data-plot/plotObject.h:27[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/applications/data-plot/plotObject.cpp:20[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaPort1394.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_robot_io_1394_applications/data-plot/../../../src/cisst-saw/sawRobotIO1394/applications/data-plot/plotObject.h:27[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_robot_io_1394_applications/data-plot/moc_plotObject.cpp:9[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_robot_io_1394_applications/data-plot/sawRobotIO1394QtDataPlot_automoc.cpp:2[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K

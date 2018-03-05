@@ -1,0 +1,131 @@
+Not searching for unused variables given on the command line.
+[36m--[0m The C compiler identification is GNU 5.4.0
+[36m--[0m The CXX compiler identification is GNU 5.4.0
+[36m--[0m Check for working C compiler: /usr/bin/cc
+[36m--[0m Check for working C compiler: /usr/bin/cc -- works
+[36m--[0m Detecting C compiler ABI info
+[36m--[0m Detecting C compiler ABI info - done
+[36m--[0m Detecting C compile features
+[36m--[0m Detecting C compile features - done
+[36m--[0m Check for working CXX compiler: /usr/bin/c++
+[36m--[0m Check for working CXX compiler: /usr/bin/c++ -- works
+[36m--[0m Detecting CXX compiler ABI info
+[36m--[0m Detecting CXX compiler ABI info - done
+[36m--[0m Detecting CXX compile features
+[36m--[0m Detecting CXX compile features - done
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/jiameng/catkin_dvrk/devel_release/.private/optoforce_ros
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/jiameng/catkin_dvrk/devel_release;/home/jiameng/catkin_ws/devel;/opt/ros/kinetic
+[36m--[0m This workspace overlays: /home/jiameng/catkin_dvrk/devel_release;/home/jiameng/catkin_ws/devel;/opt/ros/kinetic
+[36m--[0m Found PythonInterp: /usr/bin/python (found version "2.7.12")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/jiameng/catkin_dvrk/build_release/optoforce_ros/test_results
+[36m--[0m Looking for pthread.h
+[36m--[0m Looking for pthread.h - found
+[36m--[0m Looking for pthread_create
+[36m--[0m Looking for pthread_create - not found
+[36m--[0m Looking for pthread_create in pthreads
+[36m--[0m Looking for pthread_create in pthreads - not found
+[36m--[0m Looking for pthread_create in pthread
+[36m--[0m Looking for pthread_create in pthread - found
+[36m--[0m Found Threads: TRUE
+[36m--[0m Found gtest sources under '/usr/src/gtest': gtests will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.8
+[36m--[0m Performing Test CXX_SUPPORTS_WEXTRA
+[36m--[0m Performing Test CXX_SUPPORTS_WEXTRA - Success
+[36m--[0m Performing Test CXX_SUPPORTS_WALL
+[36m--[0m Performing Test CXX_SUPPORTS_WALL - Success
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstCommon' but neither
+  'cisstCommon_INCLUDE_DIRS' nor 'cisstCommon_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstCommonQt' but neither
+  'cisstCommonQt_INCLUDE_DIRS' nor 'cisstCommonQt_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstVector' but neither
+  'cisstVector_INCLUDE_DIRS' nor 'cisstVector_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstVectorQt' but neither
+  'cisstVectorQt_INCLUDE_DIRS' nor 'cisstVectorQt_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstOSAbstraction' but neither
+  'cisstOSAbstraction_INCLUDE_DIRS' nor 'cisstOSAbstraction_LIBRARIES' is
+  defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstMultiTask' but neither
+  'cisstMultiTask_INCLUDE_DIRS' nor 'cisstMultiTask_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstMultiTaskQt' but neither
+  'cisstMultiTaskQt_INCLUDE_DIRS' nor 'cisstMultiTaskQt_LIBRARIES' is
+  defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstParameterTypes' but neither
+  'cisstParameterTypes_INCLUDE_DIRS' nor 'cisstParameterTypes_LIBRARIES' is
+  defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[33m[1mCMake Warning[0m at /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:166 (message):
+  catkin_package() DEPENDS on 'cisstQt' but neither 'cisstQt_INCLUDE_DIRS'
+  nor 'cisstQt_LIBRARIES' is defined.
+[36mCall Stack (most recent call first):[0m
+  /opt/ros/kinetic/share/catkin/cmake/catkin_package.cmake:102 (_catkin_package)
+  CMakeLists.txt:51 (catkin_package)
+
+
+[36m--[0m Configuring done
+CMake Warning (dev) in CMakeLists.txt:
+  Policy CMP0043 is not set: Ignore COMPILE_DEFINITIONS_<Config> properties.
+  Run "cmake --help-policy CMP0043" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Policy CMP0043 is not set: Ignore COMPILE_DEFINITIONS_<Config> properties.
+  Run "cmake --help-policy CMP0043" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/jiameng/catkin_dvrk/build_release/optoforce_ros

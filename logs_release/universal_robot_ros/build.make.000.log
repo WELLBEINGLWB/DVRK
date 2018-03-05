@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target universal_robot[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/universal_robot.dir/src/universal_robot.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/universal_robot_ros/lib/universal_robot_ros/universal_robot[0m
+[100%] Built target universal_robot

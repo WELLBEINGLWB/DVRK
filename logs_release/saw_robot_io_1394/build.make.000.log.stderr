@@ -1,0 +1,98 @@
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlatest.cpp:711:23:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KcurLine[m[K’ [-Wunused-parameter]
+ bool TestEthernet(int curLine, AmpIO &Board, BasePort *Port, std::ofstream &logFile)
+[01;32m[K                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlatest.cpp:711:56:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KPort[m[K’ [-Wunused-parameter]
+ bool TestEthernet(int curLine, AmpIO &Board, BasePort *Port, std::ofstream &logFile)
+[01;32m[K                                                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlacloserelays.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/Amp1394/tests/qlacloserelays.cpp:47:19:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (i = 0; i < Port.GetNumOfNodes(); i++) {
+[01;32m[K                   ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaRobot1394.h:27[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/osaRobot1394.cpp:21[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaDigitalInput1394.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/osaDigitalInput1394.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaDigitalOutput1394.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/osaDigitalOutput1394.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaPort1394.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/osaPort1394.cpp:29[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/osaXML1394.cpp:[m[K In function ‘[01m[Kbool sawRobotIO1394::osaXML1394ConfigureRobot(cmnXMLPath&, int, sawRobotIO1394::osaRobot1394Configuration&)[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/osaXML1394.cpp:274:70:[m[K [01;35m[Kwarning: [m[K‘[01m[KunitPosConversion[m[K’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+             actuator.Pot.VoltageToPositionOffset *= unitPosConversion; // -------------------------------------------- adeguet1, make sure these are degrees
+[01;32m[K                                                                      ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaXML1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/osaXML1394.cpp:20[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:[m[K At global scope:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnXMLPath.h:32[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/mtsRobotIO1394.cpp:21[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/mtsRobotIO1394.cpp:40:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsRobotIO1394ClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsRobotIO1394, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg)
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/mtsRobotIO1394.cpp:40:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsRobotIO1394, mtsTaskPeriodic, mtsTaskPeriodicConstructorArg)
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTask.h:35[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskContinuous.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsTaskPeriodic.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/mtsRobotIO1394.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/Qt/mtsRobotIO1394QtWidgetFactory.cpp:24[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/Qt/mtsRobotIO1394QtWidgetFactory.cpp:31:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsRobotIO1394QtWidgetFactoryClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsRobotIO1394QtWidgetFactory, mtsComponent, std::string);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/Qt/mtsRobotIO1394QtWidgetFactory.cpp:31:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsRobotIO1394QtWidgetFactory, mtsComponent, std::string);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstOSAbstraction/osaTimeServer.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/mtsRobotIO1394QtWidget.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/Qt/mtsRobotIO1394QtWidget.cpp:31[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/Qt/mtsRobotIO1394QtWidget.cpp:37:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsRobotIO1394QtWidgetClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsRobotIO1394QtWidget, mtsComponent, mtsComponentConstructorNameAndUInt)
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/code/Qt/mtsRobotIO1394QtWidget.cpp:37:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsRobotIO1394QtWidget, mtsComponent, mtsComponentConstructorNameAndUInt)
+[01;32m[K ^[m[K

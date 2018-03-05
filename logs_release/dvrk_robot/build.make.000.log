@@ -1,0 +1,53 @@
+[  6%] [34m[1mcisstDataGenerator for dvrk_topics_version[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/include/dvrk_utilities/dvrk_topics_version.h and /home/jiameng/catkin_dvrk/build_release/dvrk_robot/dvrk_topics_version_cdg.cpp from /home/jiameng/catkin_dvrk/src/dvrk-ros/dvrk_robot/src/dvrk_topics_version.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/include/dvrk_utilities/dvrk_topics_version.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/dvrk_robot/dvrk_topics_version_cdg.cpp"
+[35m[1mScanning dependencies of target dvrk_utilities[0m
+[ 13%] [32mBuilding CXX object CMakeFiles/dvrk_utilities.dir/src/dvrk_add_topics_functions.cpp.o[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/dvrk_utilities.dir/src/dvrk_console.cpp.o[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/dvrk_utilities.dir/dvrk_topics_version_cdg.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/include/dvrk_utilities/dvrk_topics_version.h:21[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/dvrk_robot/dvrk_topics_version_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/include/dvrk_utilities/dvrk_topics_version.h:19[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/dvrk_robot/dvrk_topics_version_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/dvrk_robot/dvrk_topics_version_cdg.cpp:15:34:[m[K [01;35m[Kwarning: [m[K‘[01m[Kdvrk_topics_versionProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(dvrk_topics_versionProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/dvrk_robot/dvrk_topics_version_cdg.cpp:15:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(dvrk_topics_versionProxy);
+[01;32m[K ^[m[K
+[ 33%] [32m[1mLinking CXX shared library /home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/lib/libdvrk_utilities.so[0m
+[ 33%] Built target dvrk_utilities
+[35m[1mScanning dependencies of target dvrk_psm_ros[0m
+[35m[1mScanning dependencies of target dvrk_mtm_ros[0m
+[35m[1mScanning dependencies of target dvrk_full_ros[0m
+[35m[1mScanning dependencies of target dvrk_console_json[0m
+[35m[1mScanning dependencies of target dvrk_ecm_ros[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/dvrk_console_json.dir/src/dvrk_console_json.cpp.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/dvrk_ecm_ros.dir/src/dvrk_ecm_ros.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/dvrk_mtm_ros.dir/src/dvrk_mtm_ros.cpp.o[0m
+[ 60%] [32mBuilding CXX object CMakeFiles/dvrk_full_ros.dir/src/dvrk_full_ros.cpp.o[0m
+[ 66%] [32mBuilding CXX object CMakeFiles/dvrk_psm_ros.dir/src/dvrk_psm_ros.cpp.o[0m
+[01m[K/home/jiameng/catkin_dvrk/src/dvrk-ros/dvrk_robot/src/dvrk_full_ros.cpp:53:26:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ksig[m[K’ [-Wunused-parameter]
+ void mySigintHandler(int sig)
+[01;32m[K                          ^[m[K
+[ 73%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/lib/dvrk_robot/dvrk_ecm_ros[0m
+[ 80%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/lib/dvrk_robot/dvrk_console_json[0m
+[ 80%] Built target dvrk_ecm_ros
+[ 80%] Built target dvrk_console_json
+[ 86%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/lib/dvrk_robot/dvrk_psm_ros[0m
+[ 93%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/lib/dvrk_robot/dvrk_full_ros[0m
+[ 93%] Built target dvrk_psm_ros
+[100%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/lib/dvrk_robot/dvrk_mtm_ros[0m
+[100%] Built target dvrk_full_ros
+[100%] Built target dvrk_mtm_ros

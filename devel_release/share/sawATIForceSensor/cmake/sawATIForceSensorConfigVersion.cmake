@@ -1,0 +1,1 @@
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_ati_force_sensor/share/sawATIForceSensor/cmake/sawATIForceSensorConfigVersion.cmake

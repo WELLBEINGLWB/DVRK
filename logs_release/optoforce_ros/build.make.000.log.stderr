@@ -1,0 +1,4 @@
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawOptoforceSensor/ros/src/optoforce_json.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawOptoforceSensor/ros/src/optoforce_json.cpp:122:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KtabWidget[m[K’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+         tabWidget->show();
+[01;32m[K                        ^[m[K

@@ -1,0 +1,23 @@
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtPID[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtPID.dir/mainQtPID.cpp.o[0m
+[ 25%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitQtPID[0m
+[ 25%] Built target sawIntuitiveResearchKitQtPID
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtArm[0m
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitQtConsoleJSON[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtArm.dir/mainQtArm.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/sawIntuitiveResearchKitQtConsoleJSON.dir/mainQtConsoleJSON.cpp.o[0m
+[35m[1mScanning dependencies of target sawIntuitiveResearchKitGripperCalibration[0m
+[ 62%] [32mBuilding CXX object gripper-calibration/CMakeFiles/sawIntuitiveResearchKitGripperCalibration.dir/GripperCalibration.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstParameterTypes/prmJointType.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawRobotIO1394/components/include/sawRobotIO1394/osaConfiguration1394.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawIntuitiveResearchKit/applications/gripper-calibration/GripperCalibration.cpp:31[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+[ 75%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitGripperCalibration[0m
+[ 87%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitQtConsoleJSON[0m
+[ 87%] Built target sawIntuitiveResearchKitGripperCalibration
+[ 87%] Built target sawIntuitiveResearchKitQtConsoleJSON
+[100%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/saw_intuitive_research_kit_applications/bin/sawIntuitiveResearchKitQtArm[0m
+[100%] Built target sawIntuitiveResearchKitQtArm

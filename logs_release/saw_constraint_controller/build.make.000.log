@@ -1,0 +1,659 @@
+[  2%] [34m[1mcisstDataGenerator for mtsVFDataRCM[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataRCM.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataRCM_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFDataRCM.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataRCM.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataRCM_cdg.cpp"
+[  5%] [34m[1mcisstDataGenerator for mtsVFDataBase[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataBase.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataBase_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFDataBase.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataBase.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataBase_cdg.cpp"
+[  7%] [34m[1mcisstDataGenerator for mtsVFDataSensorCompliance[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataSensorCompliance.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataSensorCompliance_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFDataSensorCompliance.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataSensorCompliance.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataSensorCompliance_cdg.cpp"
+[ 10%] [34m[1mcisstDataGenerator for prmKinematicsOffsetState[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsOffsetState.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmKinematicsOffsetState_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/prmKinematicsOffsetState.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsOffsetState.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmKinematicsOffsetState_cdg.cpp"
+[ 12%] [34m[1mcisstDataGenerator for prmForceOffsetState[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmForceOffsetState.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmForceOffsetState_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/prmForceOffsetState.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmForceOffsetState.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmForceOffsetState_cdg.cpp"
+[ 15%] [34m[1mcisstDataGenerator for prmKinematicsState[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmKinematicsState_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/prmKinematicsState.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmKinematicsState_cdg.cpp"
+[ 17%] [34m[1mcisstDataGenerator for prmOffsetState[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmOffsetState.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmOffsetState_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/prmOffsetState.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmOffsetState.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmOffsetState_cdg.cpp"
+[ 20%] [34m[1mcisstDataGenerator for prmSensorState[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmSensorState.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmSensorState_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/prmSensorState.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmSensorState.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmSensorState_cdg.cpp"
+[ 23%] [34m[1mcisstDataGenerator for mtsVFDataCartesianTranslation[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataCartesianTranslation.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataCartesianTranslation_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFDataCartesianTranslation.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataCartesianTranslation.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataCartesianTranslation_cdg.cpp"
+[ 25%] [34m[1mcisstDataGenerator for prmJointState[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmJointState.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmJointState_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/prmJointState.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmJointState.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmJointState_cdg.cpp"
+[ 28%] [34m[1mcisstDataGenerator for mtsVFDataPlane[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataPlane.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataPlane_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFDataPlane.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataPlane.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataPlane_cdg.cpp"
+[ 30%] [34m[1mcisstDataGenerator for mtsVFDataJointLimits[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataJointLimits.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataJointLimits_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFDataJointLimits.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataJointLimits.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataJointLimits_cdg.cpp"
+[ 33%] [34m[1mcisstDataGenerator for mtsVFDataAbsoluteJointLimits[0m
+cisstDataGenerator: generating /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataAbsoluteJointLimits.h and /home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataAbsoluteJointLimits_cdg.cpp from /home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFDataAbsoluteJointLimits.cdg
+cisstDataGenerator: parse succeeded
+cisstDataGenerator: generating header file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataAbsoluteJointLimits.h"
+cisstDataGenerator: generating code file "/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataAbsoluteJointLimits_cdg.cpp"
+[35m[1mScanning dependencies of target sawConstraintController[0m
+[ 35%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/code/mtsVFBase.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFBase.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFBase.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFBase.cpp:21:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFBaseClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFBase)
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFBase.cpp:21:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFBase)
+[01;32m[K ^[m[K
+[ 38%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/code/mtsVFJointVel.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFJointVel.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFJointVel.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFJointVel.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFJointVel.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFJointVel.cpp:21:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFJointVelocityClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFJointVelocity);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFJointVel.cpp:21:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFJointVelocity);
+[01;32m[K ^[m[K
+[ 41%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/code/mtsVFJointPos.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFJointPos.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFJointPos.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFJointPos.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFJointPos.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFJointPos.cpp:21:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFJointPositionClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFJointPosition);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFJointPos.cpp:21:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFJointPosition);
+[01;32m[K ^[m[K
+[ 43%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/code/mtsVFCartVel.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFCartVel.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFCartVel.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnDeSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVector.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVectorTypes.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFCartVel.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFCartVel.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFCartVel.cpp:22:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFCartesianTranslationClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFCartesianTranslation)
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFCartVel.cpp:22:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFCartesianTranslation)
+[01;32m[K ^[m[K
+[ 46%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/code/mtsVFCartOrientationVel.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFCartOrientationVel.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFCartOrientationVel.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnDeSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVector.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVectorTypes.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFCartOrientationVel.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFCartOrientationVel.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFCartOrientationVel.cpp:22:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFCartesianOrientationClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFCartesianOrientation)
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFCartOrientationVel.cpp:22:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFCartesianOrientation)
+[01;32m[K ^[m[K
+[ 48%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/code/mtsVFSensorCompliance.cpp.o[0m
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFSensorCompliance.cpp:26:68:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmode[m[K’ [-Wunused-parameter]
+ void mtsVFSensorCompliance::FillInTableauRefs(const CONTROLLERMODE mode, const double TickTime)
+[01;32m[K                                                                    ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFSensorCompliance.cpp:26:87:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KTickTime[m[K’ [-Wunused-parameter]
+ void mtsVFSensorCompliance::FillInTableauRefs(const CONTROLLERMODE mode, const double TickTime)
+[01;32m[K                                                                                       ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFSensorCompliance.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFSensorCompliance.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnDeSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVector.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVectorTypes.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFSensorCompliance.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFSensorCompliance.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFSensorCompliance.cpp:21:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFSensorComplianceClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFSensorCompliance);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFSensorCompliance.cpp:21:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFSensorCompliance);
+[01;32m[K ^[m[K
+[ 51%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/code/mtsVFController.cpp.o[0m
+[ 53%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/code/mtsVFPlane.cpp.o[0m
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:[m[K In member function ‘[01m[Kvirtual void mtsVFPlane::FillInTableauRefs(mtsVFBase::CONTROLLERMODE, double)[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:82:23:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int i = 0; i < Jacobian3x6.rows(); ++i)
+[01;32m[K                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:83:27:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [-Wsign-compare]
+         for (int j = 0; j < Jacobian3x6.cols(); ++j)
+[01;32m[K                           ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFController.cpp:76:123:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KRCMPoint[m[K’ [-Wunused-parameter]
+ void mtsVFController::UpdateRCMVF(const size_t rows, const std::string vfName, const std::string curKinName, const vct3 & RCMPoint, const vctDoubleMat & JacClosest, const vctFrm3 & TipFrame)
+[01;32m[K                                                                                                                           ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:[m[K At global scope:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:26:57:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmode[m[K’ [-Wunused-parameter]
+ void mtsVFPlane::FillInTableauRefs(const CONTROLLERMODE mode, const double TickTime)
+[01;32m[K                                                         ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:26:76:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KTickTime[m[K’ [-Wunused-parameter]
+ void mtsVFPlane::FillInTableauRefs(const CONTROLLERMODE mode, const double TickTime)
+[01;32m[K                                                                            ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFController.cpp:[m[K In member function ‘[01m[Kbool mtsVFController::ActivateVF(const string&)[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFController.cpp:391:1:[m[K [01;35m[Kwarning: [m[Kcontrol reaches end of non-void function [-Wreturn-type]
+ }
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFPlane.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnDeSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVector.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVectorTypes.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFPlane.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:21:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFPlaneClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFPlane)
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFPlane.cpp:21:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFPlane)
+[01;32m[K ^[m[K
+[ 56%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/code/mtsVFJointLimits.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFController.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFController.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:[m[K At global scope:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnDeSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVector.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVectorTypes.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstNumerical/nmrConstraintOptimizer.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFController.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFController.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFController.cpp:21:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFControllerClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFController)
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFController.cpp:21:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFController)
+[01;32m[K ^[m[K
+[ 58%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/code/mtsVFAbsoluteJointLimits.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFJointLimits.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFJointLimits.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnDeSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVector.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVectorTypes.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFJointLimits.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFJointLimits.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFJointLimits.cpp:21:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFJointLimitsClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFJointLimits)
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFJointLimits.cpp:21:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFJointLimits)
+[01;32m[K ^[m[K
+[ 61%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/code/mtsVFFollow.cpp.o[0m
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFAbsoluteJointLimits.cpp:26:71:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmode[m[K’ [-Wunused-parameter]
+ void mtsVFAbsoluteJointLimits::FillInTableauRefs(const CONTROLLERMODE mode, const double TickTime)
+[01;32m[K                                                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFAbsoluteJointLimits.cpp:26:90:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KTickTime[m[K’ [-Wunused-parameter]
+ void mtsVFAbsoluteJointLimits::FillInTableauRefs(const CONTROLLERMODE mode, const double TickTime)
+[01;32m[K                                                                                          ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFAbsoluteJointLimits.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFAbsoluteJointLimits.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnDeSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVector.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVectorTypes.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFAbsoluteJointLimits.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFAbsoluteJointLimits.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFAbsoluteJointLimits.cpp:21:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFAbsoluteJointLimitsClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFAbsoluteJointLimits)
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFAbsoluteJointLimits.cpp:21:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFAbsoluteJointLimits)
+[01;32m[K ^[m[K
+[ 64%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/code/mtsVF_RCM.cpp.o[0m
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVF_RCM.cpp:5:56:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kmode[m[K’ [-Wunused-parameter]
+ void mtsVF_RCM::FillInTableauRefs(const CONTROLLERMODE mode, const double TickTime)
+[01;32m[K                                                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVF_RCM.cpp:5:75:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[KTickTime[m[K’ [-Wunused-parameter]
+ void mtsVF_RCM::FillInTableauRefs(const CONTROLLERMODE mode, const double TickTime)
+[01;32m[K                                                                           ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmSensorState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFFollow.h:26[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFFollow.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnDeSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVector.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctDynamicVectorTypes.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFFollow.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFFollow.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFFollow.cpp:23:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFFollowClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVFFollow)
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVFFollow.cpp:23:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVFFollow)
+[01;32m[K ^[m[K
+[ 66%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/mtsVFDataBase_cdg.cpp.o[0m
+[ 69%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/mtsVFDataSensorCompliance_cdg.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVFJointPos.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVF_RCM.h:10[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVF_RCM.cpp:1[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/include/sawConstraintController/mtsVF_RCM.h:4[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVF_RCM.cpp:1[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVF_RCM.cpp:3:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVF_RCMClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsVF_RCM);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawConstraintController/components/code/mtsVF_RCM.cpp:3:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsVF_RCM);
+[01;32m[K ^[m[K
+[ 71%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/prmKinematicsOffsetState_cdg.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataBase.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataBase_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataBase.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataBase_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataBase_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFDataBaseProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataBaseProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataBase_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataBaseProxy);
+[01;32m[K ^[m[K
+[ 74%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/prmForceOffsetState_cdg.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsOffsetState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmKinematicsOffsetState_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsOffsetState.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmKinematicsOffsetState_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmKinematicsOffsetState_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KprmKinematicsOffsetStateProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(prmKinematicsOffsetStateProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmKinematicsOffsetState_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(prmKinematicsOffsetStateProxy);
+[01;32m[K ^[m[K
+[ 76%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/prmKinematicsState_cdg.cpp.o[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/prmOffsetState_cdg.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataSensorCompliance.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataSensorCompliance_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataSensorCompliance.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataSensorCompliance_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataSensorCompliance_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFDataSensorComplianceProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataSensorComplianceProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataSensorCompliance_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataSensorComplianceProxy);
+[01;32m[K ^[m[K
+[ 82%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/prmSensorState_cdg.cpp.o[0m
+[ 84%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/mtsVFDataCartesianTranslation_cdg.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmForceOffsetState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmForceOffsetState_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmForceOffsetState.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmForceOffsetState_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmForceOffsetState_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KprmForceOffsetStateProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(prmForceOffsetStateProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmForceOffsetState_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(prmForceOffsetStateProxy);
+[01;32m[K ^[m[K
+[ 87%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/prmJointState_cdg.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmSensorState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmSensorState_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmSensorState.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmSensorState_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmSensorState_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KprmSensorStateProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(prmSensorStateProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmSensorState_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(prmSensorStateProxy);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmOffsetState.h:22[m[K,
+[ 89%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/mtsVFDataPlane_cdg.cpp.o[0m
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmOffsetState_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmOffsetState.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmOffsetState_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmOffsetState_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KprmOffsetStateProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(prmOffsetStateProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmOffsetState_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(prmOffsetStateProxy);
+[01;32m[K ^[m[K
+[ 92%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/mtsVFDataJointLimits_cdg.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataCartesianTranslation.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataCartesianTranslation_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataCartesianTranslation.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataCartesianTranslation_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataCartesianTranslation_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFDataCartesianProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataCartesianProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataCartesianTranslation_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataCartesianProxy);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmKinematicsState_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmKinematicsState.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmKinematicsState_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmKinematicsState_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KprmKinematicsStateProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(prmKinematicsStateProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmKinematicsState_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(prmKinematicsStateProxy);
+[01;32m[K ^[m[K
+[ 94%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/mtsVFDataAbsoluteJointLimits_cdg.cpp.o[0m
+[ 97%] [32mBuilding CXX object CMakeFiles/sawConstraintController.dir/mtsVFDataRCM_cdg.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmJointState.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmJointState_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/prmJointState.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmJointState_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmJointState_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KprmJointStateProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(prmJointStateProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/prmJointState_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(prmJointStateProxy);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataPlane.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataPlane_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataPlane.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataPlane_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataPlane_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFDataPlaneProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataPlaneProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataPlane_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataPlaneProxy);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataJointLimits.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataJointLimits_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataJointLimits.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataJointLimits_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataJointLimits_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFDataJointLimitsProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataJointLimitsProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataJointLimits_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataJointLimitsProxy);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataAbsoluteJointLimits.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataAbsoluteJointLimits_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataAbsoluteJointLimits.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataAbsoluteJointLimits_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataAbsoluteJointLimits_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFDataAbsoluteJointLimitsProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataAbsoluteJointLimitsProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataAbsoluteJointLimits_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataAbsoluteJointLimitsProxy);
+[01;32m[K ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataRCM.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataRCM_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/include/sawConstraintController/mtsVFDataRCM.h:20[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataRCM_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataRCM_cdg.cpp:16:34:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsVFDataRCMProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataRCMProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/saw_constraint_controller/mtsVFDataRCM_cdg.cpp:16:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(mtsVFDataRCMProxy);
+[01;32m[K ^[m[K
+[100%] [32m[1mLinking CXX shared library lib/libsawConstraintController.so[0m
+[100%] Built target sawConstraintController

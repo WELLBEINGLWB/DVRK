@@ -1,0 +1,4 @@
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/universal_robot_ros/cmake/universal_robot_rosConfig-version.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/universal_robot_ros/cmake/universal_robot_rosConfig.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/pkgconfig/universal_robot_ros.pc
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/universal_robot_ros/universal_robot

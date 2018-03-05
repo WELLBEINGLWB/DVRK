@@ -1,0 +1,5 @@
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/dvrk_teleop/cmake/dvrk_teleopConfig-version.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/dvrk_teleop/cmake/dvrk_teleopConfig.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/pkgconfig/dvrk_teleop.pc
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/dvrk_teleop/dvrk_teleop_gui
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/dvrk_teleop/dvrk_teleop

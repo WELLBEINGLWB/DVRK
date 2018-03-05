@@ -1,0 +1,12 @@
+[35m[1mScanning dependencies of target sawATIForceSensorWithSimulator[0m
+[ 16%] [32mBuilding CXX object CMakeFiles/sawATIForceSensorWithSimulator.dir/mainForceWithSimulator.cpp.o[0m
+[ 33%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/saw_ati_force_sensor_examples/bin/sawATIForceSensorWithSimulator[0m
+[ 33%] Built target sawATIForceSensorWithSimulator
+[35m[1mScanning dependencies of target sawATIForceSensorExample[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/sawATIForceSensorExample.dir/main.cpp.o[0m
+[ 66%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/saw_ati_force_sensor_examples/bin/sawATIForceSensorExample[0m
+[ 66%] Built target sawATIForceSensorExample
+[35m[1mScanning dependencies of target sawATIForceSensorSimulator[0m
+[ 83%] [32mBuilding CXX object CMakeFiles/sawATIForceSensorSimulator.dir/mainSimulator.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/saw_ati_force_sensor_examples/bin/sawATIForceSensorSimulator[0m
+[100%] Built target sawATIForceSensorSimulator

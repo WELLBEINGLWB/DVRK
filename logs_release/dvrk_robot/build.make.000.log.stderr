@@ -1,0 +1,22 @@
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:32:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/include/dvrk_utilities/dvrk_topics_version.h:21[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/dvrk_robot/dvrk_topics_version_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsForwardDeclarations.h:154:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KInvalidConnectionID[m[K’ defined but not used [-Wunused-variable]
+ const ConnectionIDType InvalidConnectionID = (ConnectionIDType) std::numeric_limits<int>::max();
+[01;32m[K                        ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:179:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:34[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_robot/include/dvrk_utilities/dvrk_topics_version.h:19[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/build_release/dvrk_robot/dvrk_topics_version_cdg.cpp:5[m[K:
+[01m[K/home/jiameng/catkin_dvrk/build_release/dvrk_robot/dvrk_topics_version_cdg.cpp:15:34:[m[K [01;35m[Kwarning: [m[K‘[01m[Kdvrk_topics_versionProxyClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(dvrk_topics_versionProxy);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:298:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/build_release/dvrk_robot/dvrk_topics_version_cdg.cpp:15:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_TEMPLATED[m[K’
+ CMN_IMPLEMENT_SERVICES_TEMPLATED(dvrk_topics_versionProxy);
+[01;32m[K ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/dvrk-ros/dvrk_robot/src/dvrk_full_ros.cpp:53:26:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Ksig[m[K’ [-Wunused-parameter]
+ void mySigintHandler(int sig)
+[01;32m[K                          ^[m[K

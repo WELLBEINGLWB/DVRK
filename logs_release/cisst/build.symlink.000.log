@@ -1,0 +1,5 @@
+Symlinking /home/jiameng/catkin_dvrk/devel_release/./cisstvars.sh
+Symlinking /home/jiameng/catkin_dvrk/devel_release/./cisstvars.csh
+Symlinking /home/jiameng/catkin_dvrk/devel_release/bin/cisstDataGenerator
+Symlinking /home/jiameng/catkin_dvrk/devel_release/cmake/cisst-config-version.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/cmake/cisst-config.cmake

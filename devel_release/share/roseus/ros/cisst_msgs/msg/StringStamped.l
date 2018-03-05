@@ -1,0 +1,1 @@
+/home/jiameng/catkin_dvrk/devel_release/.private/cisst_msgs/share/roseus/ros/cisst_msgs/msg/StringStamped.l

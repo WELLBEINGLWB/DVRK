@@ -1,0 +1,26 @@
+[36m--[0m Looking for saw component: sawRobotIO1394 in: /home/jiameng/catkin_dvrk/build_release/cisst/share/cisst-1.0/cmake/saw
+[36m--[0m Found saw component "sawRobotIO1394" in cisst non-install path: /home/jiameng/catkin_dvrk/devel_release/share/sawRobotIO1394/cmake
+CMake Warning (dev) in CMakeLists.txt:
+  Policy CMP0043 is not set: Ignore COMPILE_DEFINITIONS_<Config> properties.
+  Run "cmake --help-policy CMP0043" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Policy CMP0043 is not set: Ignore COMPILE_DEFINITIONS_<Config> properties.
+  Run "cmake --help-policy CMP0043" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Policy CMP0043 is not set: Ignore COMPILE_DEFINITIONS_<Config> properties.
+  Run "cmake --help-policy CMP0043" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Warning (dev) in CMakeLists.txt:
+  Policy CMP0043 is not set: Ignore COMPILE_DEFINITIONS_<Config> properties.
+  Run "cmake --help-policy CMP0043" for policy details.  Use the cmake_policy
+  command to set the policy and suppress this warning.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+

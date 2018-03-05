@@ -1,0 +1,8 @@
+prefix=/home/jiameng/catkin_dvrk/devel_release/.private/cisst_msgs
+
+Name: cisst_msgs
+Description: Description of cisst_msgs
+Version: 1.3.0
+Cflags: -I/home/jiameng/catkin_dvrk/devel_release/.private/cisst_msgs/include
+Libs: -L/home/jiameng/catkin_dvrk/devel_release/.private/cisst_msgs/lib 
+Requires: message_runtime

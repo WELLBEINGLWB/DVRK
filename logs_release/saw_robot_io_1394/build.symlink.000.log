@@ -1,0 +1,11 @@
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/sawRobotIO1394/cmake/sawRobotIO1394Config.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/sawRobotIO1394/cmake/sawRobotIO1394ConfigVersion.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/bin/quad1394
+Symlinking /home/jiameng/catkin_dvrk/devel_release/bin/block1394
+Symlinking /home/jiameng/catkin_dvrk/devel_release/bin/qlatest
+Symlinking /home/jiameng/catkin_dvrk/devel_release/bin/info1394
+Symlinking /home/jiameng/catkin_dvrk/devel_release/bin/qladisp
+Symlinking /home/jiameng/catkin_dvrk/devel_release/bin/qlacloserelays
+Symlinking /home/jiameng/catkin_dvrk/devel_release/bin/time1394
+Symlinking /home/jiameng/catkin_dvrk/devel_release/bin/fwPortTest
+Symlinking /home/jiameng/catkin_dvrk/devel_release/bin/pgm1394

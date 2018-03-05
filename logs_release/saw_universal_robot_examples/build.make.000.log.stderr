@@ -1,0 +1,4 @@
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawUniversalRobot/examples/ConsoleTest/main.cpp:[m[K In member function ‘[01m[Kvirtual void UniversalRobotClient::Run()[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawUniversalRobot/examples/ConsoleTest/main.cpp:211:51:[m[K [01;35m[Kwarning: [m[Kcomparison between signed and unsigned integer expressions [-Wsign-compare]
+                     if ((version < 0) || (version >= sizeof(versionString)/sizeof(versionString[0])))
+[01;32m[K                                                   ^[m[K

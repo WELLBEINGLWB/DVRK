@@ -1,0 +1,129 @@
+[35m[1mScanning dependencies of target sawATIForceSensor[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/sawATIForceSensor.dir/code/mtsATINetFTSensor.cpp.o[0m
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:[m[K In member function ‘[01m[Kvirtual void mtsATINetFTSensor::Startup()[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:99:37:[m[K [01;35m[Kwarning: [m[Kdereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+         *(uint16*)&(Data->Request)[0] = htons(0x1234); /* standard header. */
+[01;32m[K                                     ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:100:37:[m[K [01;35m[Kwarning: [m[Kdereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+         *(uint16*)&(Data->Request)[2] = htons(ATI_COMMAND); /* per table 9.1 in Net F/T user manual. */
+[01;32m[K                                     ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:101:37:[m[K [01;35m[Kwarning: [m[Kdereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+         *(uint32*)&(Data->Request)[4] = htonl(ATI_NUM_SAMPLES); /* see section 9.1 in Net F/T user manual. */
+[01;32m[K                                     ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:[m[K In member function ‘[01m[Kvirtual void mtsATINetFTSensor::Cleanup()[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:129:37:[m[K [01;35m[Kwarning: [m[Kdereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+         *(uint16*)&(Data->Request)[0] = htons(0x1234);
+[01;32m[K                                     ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:130:37:[m[K [01;35m[Kwarning: [m[Kdereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+         *(uint16*)&(Data->Request)[2] = htons(0); /* Stop streaming */
+[01;32m[K                                     ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:131:37:[m[K [01;35m[Kwarning: [m[Kdereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+         *(uint32*)&(Data->Request)[4] = htonl(ATI_NUM_SAMPLES);
+[01;32m[K                                     ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:44:0[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:[m[K In member function ‘[01m[Kvoid mtsATINetFTSensor::GetReadings()[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:199:70:[m[K [01;35m[Kwarning: [m[Kdereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+         this->Data->RdtSequence = ntohl(*(uint32*)&(Data->Response)[0]);
+[01;32m[K                                                                      ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:200:69:[m[K [01;35m[Kwarning: [m[Kdereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+         this->Data->FtSequence = ntohl(*(uint32*)&(Data->Response)[4]);
+[01;32m[K                                                                     ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:201:65:[m[K [01;35m[Kwarning: [m[Kdereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+         this->Data->Status = ntohl(*(uint32*)&(Data->Response)[8]);
+[01;32m[K                                                                 ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:208:63:[m[K [01;35m[Kwarning: [m[Kdereferencing type-punned pointer will break strict-aliasing rules [-Wstrict-aliasing]
+             temp = ntohl(*(int32*)&(Data->Response)[12 + i * 4]);
+[01;32m[K                                                               ^[m[K
+[35m[1mScanning dependencies of target sawATIForceSensorQt_automoc[0m
+[ 25%] [34m[1mAutomatic moc for target sawATIForceSensorQt[0m
+[34m[1mGenerating moc_mtsATINetFTQtWidget.cpp[0m
+[34m[1mGenerating moc_sawATINetFTSimulatorQtWidget.cpp[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/sawATIForceSensor.dir/code/mtsATINetFTConfig.cpp.o[0m
+[ 37%] Built target sawATIForceSensorQt_automoc
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsGenericObjectProxy.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsQueue.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsMailBox.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceProvided.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:22[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:[m[K At global scope:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:49:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsATINetFTSensorClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsATINetFTSensor)
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTSensor.cpp:49:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsATINetFTSensor)
+[01;32m[K ^[m[K
+[35m[1mScanning dependencies of target sawATIForceSensorQt[0m
+[ 50%] [32mBuilding CXX object code/Qt/CMakeFiles/sawATIForceSensorQt.dir/mtsATINetFTQtWidget.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/include/sawATIForceSensor/mtsATINetFTConfig.h:23[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTConfig.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTConfig.cpp:26:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsATINetFTConfigClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(mtsATINetFTConfig);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/mtsATINetFTConfig.cpp:26:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(mtsATINetFTConfig);
+[01;32m[K ^[m[K
+[ 62%] [32m[1mLinking CXX shared library lib/libsawATIForceSensor.so[0m
+[ 62%] Built target sawATIForceSensor
+[ 75%] [32mBuilding CXX object code/Qt/CMakeFiles/sawATIForceSensorQt.dir/sawATINetFTSimulatorQtWidget.cpp.o[0m
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnDeSerializer.h:33[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeVectorBase.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeConstVectorRef.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeVectorRef.h:28[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeVector.h:30[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstVector/vctFixedSizeVectorTypes.h:29[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/include/sawATIForceSensor/sawATINetFTSimulatorQtWidget.h:23[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/sawATINetFTSimulatorQtWidget.cpp:19[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/sawATINetFTSimulatorQtWidget.cpp:36:24:[m[K [01;35m[Kwarning: [m[K‘[01m[KsawATINetFTSimulatorQtWidgetClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES(sawATINetFTSimulatorQtWidget);
+[01;32m[K                        ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/sawATINetFTSimulatorQtWidget.cpp:36:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES[m[K’
+ CMN_IMPLEMENT_SERVICES(sawATINetFTSimulatorQtWidget);
+[01;32m[K ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/mtsATINetFTQtWidget.cpp:[m[K In member function ‘[01m[Kvoid mtsATINetFTQtWidget::SlotPlotIndex(int)[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/mtsATINetFTQtWidget.cpp:323:22:[m[K [01;35m[Kwarning: [m[Kiteration 3u invokes undefined behavior [-Waggressive-loop-optimizations]
+         ForceSignal[i]->SetVisible(false);
+[01;32m[K                      ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/mtsATINetFTQtWidget.cpp:322:23:[m[K [01;36m[Knote: [m[Kcontaining loop
+     for (int i = 0; i < 5; ++i) {
+[01;32m[K                       ^[m[K
+[ 87%] [32mBuilding CXX object code/Qt/CMakeFiles/sawATIForceSensorQt.dir/sawATIForceSensorQt_automoc.cpp.o[0m
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/mtsATINetFTQtWidget.cpp:[m[K In member function ‘[01m[Kvirtual void mtsATINetFTQtWidget::timerEvent(QTimerEvent*)[m[K’:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/mtsATINetFTQtWidget.cpp:289:34:[m[K [01;35m[Kwarning: [m[K‘[01m[K*((void*)& range +8)[m[K’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+     text.setNum(range[1], 'f', 2);
+[01;32m[K                                  ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/mtsATINetFTQtWidget.cpp:287:34:[m[K [01;35m[Kwarning: [m[K‘[01m[Krange[m[K’ may be used uninitialized in this function [-Wmaybe-uninitialized]
+     text.setNum(range[0], 'f', 2);
+[01;32m[K                                  ^[m[K
+In file included from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassServices.h:36:0[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnGenericObject.h:177[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterface.h:22[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstMultiTask/mtsInterfaceRequired.h:24[m[K,
+                 from [01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/mtsATINetFTQtWidget.cpp:32[m[K:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/mtsATINetFTQtWidget.cpp:[m[K At global scope:
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/mtsATINetFTQtWidget.cpp:35:39:[m[K [01;35m[Kwarning: [m[K‘[01m[KmtsATINetFTQtWidgetClassServicesPointer[m[K’ defined but not used [-Wunused-variable]
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsATINetFTQtWidget, mtsComponent, std::string);
+[01;32m[K                                       ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/cisst/cisstCommon/cmnClassRegisterMacros.h:265:31:[m[K [01;36m[Knote: [m[Kin definition of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_INTERNAL[m[K’
+ static cmnClassServicesBase * className##ClassServicesPointer = className::ClassServices();
+[01;32m[K                               ^[m[K
+[01m[K/home/jiameng/catkin_dvrk/src/cisst-saw/sawATIForceSensor/components/code/Qt/mtsATINetFTQtWidget.cpp:35:1:[m[K [01;36m[Knote: [m[Kin expansion of macro ‘[01m[KCMN_IMPLEMENT_SERVICES_DERIVED_ONEARG[m[K’
+ CMN_IMPLEMENT_SERVICES_DERIVED_ONEARG(mtsATINetFTQtWidget, mtsComponent, std::string);
+[01;32m[K ^[m[K
+[100%] [32m[1mLinking CXX shared library ../../lib/libsawATIForceSensorQt.so[0m
+[100%] Built target sawATIForceSensorQt

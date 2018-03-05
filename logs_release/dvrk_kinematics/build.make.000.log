@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target dvrk_psm_logic[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/dvrk_psm_logic.dir/src/psm_logic.cpp.o[0m
+[35m[1mScanning dependencies of target dvrk_mtm_logic[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/dvrk_mtm_logic.dir/src/mtm_logic.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/dvrk_kinematics/lib/dvrk_kinematics/dvrk_psm_logic[0m
+[ 75%] Built target dvrk_psm_logic
+[100%] [32m[1mLinking CXX executable /home/jiameng/catkin_dvrk/devel_release/.private/dvrk_kinematics/lib/dvrk_kinematics/dvrk_mtm_logic[0m
+[100%] Built target dvrk_mtm_logic

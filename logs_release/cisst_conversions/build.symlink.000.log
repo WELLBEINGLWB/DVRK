@@ -1,0 +1,4 @@
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/cisst_conversions/cmake/cisst_conversionsConfig.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/share/cisst_conversions/cmake/cisst_conversionsConfig-version.cmake
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/libcisst_conversions.so
+Symlinking /home/jiameng/catkin_dvrk/devel_release/lib/pkgconfig/cisst_conversions.pc
