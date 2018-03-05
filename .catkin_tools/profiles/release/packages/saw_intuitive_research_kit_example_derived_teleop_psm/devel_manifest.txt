@@ -1,0 +1,2 @@
+cisst-saw/sawIntuitiveResearchKit/examples/derivedTeleOperationPSM/components
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_intuitive_research_kit_example_derived_teleop_psm/lib/libsawIntuitiveResearchKitDerivedTeleOperationPSM.so /home/jiameng/catkin_dvrk/devel_release/lib/libsawIntuitiveResearchKitDerivedTeleOperationPSM.so

@@ -1,0 +1,5 @@
+cisst-saw/sawUniversalRobot/ros
+/home/jiameng/catkin_dvrk/devel_release/.private/universal_robot_ros/share/universal_robot_ros/cmake/universal_robot_rosConfig-version.cmake /home/jiameng/catkin_dvrk/devel_release/share/universal_robot_ros/cmake/universal_robot_rosConfig-version.cmake
+/home/jiameng/catkin_dvrk/devel_release/.private/universal_robot_ros/share/universal_robot_ros/cmake/universal_robot_rosConfig.cmake /home/jiameng/catkin_dvrk/devel_release/share/universal_robot_ros/cmake/universal_robot_rosConfig.cmake
+/home/jiameng/catkin_dvrk/devel_release/.private/universal_robot_ros/lib/pkgconfig/universal_robot_ros.pc /home/jiameng/catkin_dvrk/devel_release/lib/pkgconfig/universal_robot_ros.pc
+/home/jiameng/catkin_dvrk/devel_release/.private/universal_robot_ros/lib/universal_robot_ros/universal_robot /home/jiameng/catkin_dvrk/devel_release/lib/universal_robot_ros/universal_robot

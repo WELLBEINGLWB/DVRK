@@ -1,0 +1,4 @@
+cisst-saw/sawATIForceSensor/examples
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_ati_force_sensor_examples/bin/sawATIForceSensorWithSimulator /home/jiameng/catkin_dvrk/devel_release/bin/sawATIForceSensorWithSimulator
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_ati_force_sensor_examples/bin/sawATIForceSensorSimulator /home/jiameng/catkin_dvrk/devel_release/bin/sawATIForceSensorSimulator
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_ati_force_sensor_examples/bin/sawATIForceSensorExample /home/jiameng/catkin_dvrk/devel_release/bin/sawATIForceSensorExample

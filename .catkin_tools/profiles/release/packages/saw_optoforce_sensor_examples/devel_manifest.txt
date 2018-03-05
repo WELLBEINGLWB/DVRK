@@ -1,0 +1,2 @@
+cisst-saw/sawOptoforceSensor/examples
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_optoforce_sensor_examples/bin/OptoforceExample /home/jiameng/catkin_dvrk/devel_release/bin/OptoforceExample

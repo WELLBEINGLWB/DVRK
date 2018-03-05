@@ -1,0 +1,4 @@
+cisst-saw/sawUniversalRobot/components
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_universal_robot/share/sawUniversalRobot/cmake/sawUniversalRobotConfigVersion.cmake /home/jiameng/catkin_dvrk/devel_release/share/sawUniversalRobot/cmake/sawUniversalRobotConfigVersion.cmake
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_universal_robot/share/sawUniversalRobot/cmake/sawUniversalRobotConfig.cmake /home/jiameng/catkin_dvrk/devel_release/share/sawUniversalRobot/cmake/sawUniversalRobotConfig.cmake
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_universal_robot/lib/libsawUniversalRobot.so /home/jiameng/catkin_dvrk/devel_release/lib/libsawUniversalRobot.so

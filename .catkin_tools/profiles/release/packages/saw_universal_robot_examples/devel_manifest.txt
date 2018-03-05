@@ -1,0 +1,3 @@
+cisst-saw/sawUniversalRobot/examples
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_universal_robot_examples/bin/ur_robot.py /home/jiameng/catkin_dvrk/devel_release/bin/ur_robot.py
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_universal_robot_examples/bin/sawUniversalRobotConsole /home/jiameng/catkin_dvrk/devel_release/bin/sawUniversalRobotConsole

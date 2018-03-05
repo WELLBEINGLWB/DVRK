@@ -1,0 +1,4 @@
+cisst-saw/sawIntuitiveResearchKit/share
+/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_config/share/dvrk_config/cmake/dvrk_configConfig-version.cmake /home/jiameng/catkin_dvrk/devel_release/share/dvrk_config/cmake/dvrk_configConfig-version.cmake
+/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_config/share/dvrk_config/cmake/dvrk_configConfig.cmake /home/jiameng/catkin_dvrk/devel_release/share/dvrk_config/cmake/dvrk_configConfig.cmake
+/home/jiameng/catkin_dvrk/devel_release/.private/dvrk_config/lib/pkgconfig/dvrk_config.pc /home/jiameng/catkin_dvrk/devel_release/lib/pkgconfig/dvrk_config.pc

@@ -1,0 +1,5 @@
+cisst-saw/sawRobotIO1394/applications
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394CurrentCalibration /home/jiameng/catkin_dvrk/devel_release/bin/sawRobotIO1394CurrentCalibration
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394DataCollection /home/jiameng/catkin_dvrk/devel_release/bin/sawRobotIO1394DataCollection
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394QtConsole /home/jiameng/catkin_dvrk/devel_release/bin/sawRobotIO1394QtConsole
+/home/jiameng/catkin_dvrk/devel_release/.private/saw_robot_io_1394_applications/bin/sawRobotIO1394QtDataPlot /home/jiameng/catkin_dvrk/devel_release/bin/sawRobotIO1394QtDataPlot

@@ -1,0 +1,6 @@
+cisst-saw/cisst-ros/cisst_ros_bridge
+/home/jiameng/catkin_dvrk/devel_release/.private/cisst_ros_bridge/share/cisst_ros_bridge/cmake/cisst_ros_bridgeConfig.cmake /home/jiameng/catkin_dvrk/devel_release/share/cisst_ros_bridge/cmake/cisst_ros_bridgeConfig.cmake
+/home/jiameng/catkin_dvrk/devel_release/.private/cisst_ros_bridge/share/cisst_ros_bridge/cmake/cisst_ros_bridgeConfig-version.cmake /home/jiameng/catkin_dvrk/devel_release/share/cisst_ros_bridge/cmake/cisst_ros_bridgeConfig-version.cmake
+/home/jiameng/catkin_dvrk/devel_release/.private/cisst_ros_bridge/lib/libcisst_ros_bridge.so /home/jiameng/catkin_dvrk/devel_release/lib/libcisst_ros_bridge.so
+/home/jiameng/catkin_dvrk/devel_release/.private/cisst_ros_bridge/lib/cisst_ros_bridge/example_bridge /home/jiameng/catkin_dvrk/devel_release/lib/cisst_ros_bridge/example_bridge
+/home/jiameng/catkin_dvrk/devel_release/.private/cisst_ros_bridge/lib/pkgconfig/cisst_ros_bridge.pc /home/jiameng/catkin_dvrk/devel_release/lib/pkgconfig/cisst_ros_bridge.pc

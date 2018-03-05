@@ -1,0 +1,6 @@
+cisst-saw/cisst
+/home/jiameng/catkin_dvrk/devel_release/.private/cisst/cisstvars.sh /home/jiameng/catkin_dvrk/devel_release/./cisstvars.sh
+/home/jiameng/catkin_dvrk/devel_release/.private/cisst/cisstvars.csh /home/jiameng/catkin_dvrk/devel_release/./cisstvars.csh
+/home/jiameng/catkin_dvrk/devel_release/.private/cisst/bin/cisstDataGenerator /home/jiameng/catkin_dvrk/devel_release/bin/cisstDataGenerator
+/home/jiameng/catkin_dvrk/devel_release/.private/cisst/cmake/cisst-config-version.cmake /home/jiameng/catkin_dvrk/devel_release/cmake/cisst-config-version.cmake
+/home/jiameng/catkin_dvrk/devel_release/.private/cisst/cmake/cisst-config.cmake /home/jiameng/catkin_dvrk/devel_release/cmake/cisst-config.cmake
