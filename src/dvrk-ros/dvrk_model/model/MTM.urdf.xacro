@@ -543,7 +543,7 @@
     <transmission name="tran4">
       <type>transmission_interface/SimpleTransmission</type>
       <joint name="wrist_platform">
-        <hardwareInterface>EffortJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
       </joint>
       <actuator name="motor4">
         <hardwareInterface>EffortJointInterface</hardwareInterface>
@@ -553,7 +553,7 @@
     <transmission name="tran5">
       <type>transmission_interface/SimpleTransmission</type>
       <joint name="wrist_pitch">
-        <hardwareInterface>EffortJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
       </joint>
       <actuator name="motor5">
         <hardwareInterface>EffortJointInterface</hardwareInterface>
@@ -563,7 +563,7 @@
     <transmission name="tran6">
       <type>transmission_interface/SimpleTransmission</type>
       <joint name="wrist_yaw">
-        <hardwareInterface>EffortJointInterface</hardwareInterface>
+        <hardwareInterface>hardware_interface/EffortJointInterface</hardwareInterface>
       </joint>
       <actuator name="motor6">
         <hardwareInterface>EffortJointInterface</hardwareInterface>

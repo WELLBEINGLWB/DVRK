@@ -22,7 +22,7 @@ http://www.cisst.org/cisst/license.txt.
 #ifndef _cisstRevision_h
 #define _cisstRevision_h
 
-#define CISST_GIT_DESCRIBE "1.0.9"
-#define CISST_FULL_REVISION "cisst 1.0.9 (git: 1.0.9)"
+#define CISST_GIT_DESCRIBE ""
+#define CISST_FULL_REVISION "cisst 1.0.9 (git: )"
 
 #endif // _cisstRevision_h
