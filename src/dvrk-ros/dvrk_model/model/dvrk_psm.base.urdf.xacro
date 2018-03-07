@@ -95,7 +95,7 @@
       <!-- <origin rpy="-1.5708 -1.5708 0" xyz="0 0.0295 0.1495"/> -->
       <dynamics damping="1"/> 
       <origin rpy="-1.5708 -1.5708 0" xyz="0 0.0295 0.5185"/>
-      <!--mimic joint="${prefix}outer_pitch_joint" multiplier="1"/-->
+      <mimic joint="${prefix}outer_pitch_joint" multiplier="1"/>
       <limit lower="-0.7854" upper="0.7854" velocity=".4" effort="1000"/>
     </joint> 
     
@@ -123,7 +123,7 @@
       <child link="${prefix}outer_pitch_front_link"/>
       <axis xyz="0 0 1"/>
       <origin rpy="-1.5708 -1.5708 0" xyz="0 0.0295 0.4285"/>
-      <!--mimic joint="${prefix}outer_pitch_joint" multiplier="1"/-->
+      <mimic joint="${prefix}outer_pitch_joint" multiplier="1"/>
       <limit lower="-0.7854" upper="0.7854" velocity=".4" effort="1000"/>
       <dynamics damping="1"/> 
     </joint>
@@ -181,7 +181,7 @@
       <child link="${prefix}outer_pitch_top_link"/>
       <axis xyz="0 0 1"/>
       <origin rpy="0 0 0" xyz="0.04209 0.18695 -0.02412"/>
-      <!--mimic joint="${prefix}outer_pitch_joint" multiplier="-1"/-->
+      <mimic joint="${prefix}outer_pitch_joint_3" multiplier="1"/>
       <limit lower="-0.7854" upper="0.7854" velocity=".4" effort="1000"/>
       <dynamics damping="1"/> 
     </joint>
@@ -235,9 +235,9 @@
 
     <!-- joint 3: insertion -->
     <joint name="${prefix}outer_insertion_joint" type="prismatic">
-      <!-- <parent link="${prefix}outer_insertion_link"/> -->
-      <parent link="${prefix}psm_base_link"/>
-      <!-- <parent link="${prefix}outer_pitch_link"/>-->
+      <!-- <parent link="${prefix}outer_insertion_link"/>-->
+      <!-- <parent link="${prefix}psm_base_link"/> -->
+      <parent link="${prefix}outer_pitch_link"/>
       <child link="${prefix}tool_main_link"/>
       <axis xyz="0 0 1"/>
       <origin rpy="1.5708 0 0" xyz="0 0.4318 0"/>
